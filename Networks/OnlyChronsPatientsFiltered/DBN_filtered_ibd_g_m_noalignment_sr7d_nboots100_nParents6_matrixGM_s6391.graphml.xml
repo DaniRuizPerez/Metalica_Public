@@ -1,0 +1,2402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+<key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+<key id="key_bootScore" for="edge" attr.name="bootScore" attr.type="double"/>
+<graph id="filtered_ibd_g_m_noalignment_sr7d_boot427_dbnIntra" edgedefault="directed">
+<node id="week sample obtained_t0"/>
+<node id="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_t0"/>
+<node id="g__3-hydroxybutyryl-coa dehydrogenase_t0"/>
+<node id="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0"/>
+<node id="g__5-formyltetrahydrofolate cyclo-ligase_t0"/>
+<node id="g__acetyl-coa c-acetyltransferase_t0"/>
+<node id="g__aldose 1-epimerase_t0"/>
+<node id="g__aspartate ammonia-lyase_t0"/>
+<node id="g__beta-lactamase_t0"/>
+<node id="g__dephospho-coa kinase_t0"/>
+<node id="g__dihydrolipoyl dehydrogenase_t0"/>
+<node id="g__dna helicase_t0"/>
+<node id="g__dna-directed rna polymerase_t0"/>
+<node id="g__endopeptidase clp_t0"/>
+<node id="g__fructose-bisphosphate aldolase_t0"/>
+<node id="g__glucose-1-phosphate adenylyltransferase_t0"/>
+<node id="g__glutamate decarboxylase_t0"/>
+<node id="g__glutamate dehydrogenase_t0"/>
+<node id="g__histidine kinase_t0"/>
+<node id="g__l-serine ammonia-lyase_t0"/>
+<node id="g__methionyl aminopeptidase_t0"/>
+<node id="g__peptidylprolyl isomerase_t0"/>
+<node id="g__peroxiredoxin_t0"/>
+<node id="g__phosphatidate cytidylyltransferase_t0"/>
+<node id="g__phosphoglycerate kinase_t0"/>
+<node id="g__phosphopyruvate hydratase_t0"/>
+<node id="g__pyruvate carboxylase_t0"/>
+<node id="g__ribulose-phosphate 3-epimerase_t0"/>
+<node id="g__rna helicase_t0"/>
+<node id="g__shikimate kinase_t0"/>
+<node id="g__superoxide dismutase_t0"/>
+<node id="g__thymidylate synthase_t0"/>
+<node id="g__transaldolase_t0"/>
+<node id="g__triose-phosphate isomerase_t0"/>
+<node id="g__uridine kinase_t0"/>
+<node id="m__hmdb00014_t0"/>
+<node id="m__hmdb00020_t0"/>
+<node id="m__hmdb00030_t0"/>
+<node id="m__hmdb00043_t0"/>
+<node id="m__hmdb00056_t0"/>
+<node id="m__hmdb00089_t0"/>
+<node id="m__hmdb00097_t0"/>
+<node id="m__hmdb00195_t0"/>
+<node id="m__hmdb00209_t0"/>
+<node id="m__hmdb00239_t0"/>
+<node id="m__hmdb00251_t0"/>
+<node id="m__hmdb00289_t0"/>
+<node id="m__hmdb00296_t0"/>
+<node id="m__hmdb00619_t0"/>
+<node id="m__hmdb00630_t0"/>
+<node id="m__hmdb00764_t0"/>
+<node id="m__hmdb01149_t0"/>
+<node id="m__hmdb01257_t0"/>
+<node id="m__hmdb02322_t0"/>
+<node id="week sample obtained_tn"/>
+<node id="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn"/>
+<node id="g__3-hydroxybutyryl-coa dehydrogenase_tn"/>
+<node id="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn"/>
+<node id="g__5-formyltetrahydrofolate cyclo-ligase_tn"/>
+<node id="g__acetyl-coa c-acetyltransferase_tn"/>
+<node id="g__aldose 1-epimerase_tn"/>
+<node id="g__aspartate ammonia-lyase_tn"/>
+<node id="g__beta-lactamase_tn"/>
+<node id="g__dephospho-coa kinase_tn"/>
+<node id="g__dihydrolipoyl dehydrogenase_tn"/>
+<node id="g__dna helicase_tn"/>
+<node id="g__dna-directed rna polymerase_tn"/>
+<node id="g__endopeptidase clp_tn"/>
+<node id="g__fructose-bisphosphate aldolase_tn"/>
+<node id="g__glucose-1-phosphate adenylyltransferase_tn"/>
+<node id="g__glutamate decarboxylase_tn"/>
+<node id="g__glutamate dehydrogenase_tn"/>
+<node id="g__histidine kinase_tn"/>
+<node id="g__l-serine ammonia-lyase_tn"/>
+<node id="g__methionyl aminopeptidase_tn"/>
+<node id="g__peptidylprolyl isomerase_tn"/>
+<node id="g__peroxiredoxin_tn"/>
+<node id="g__phosphatidate cytidylyltransferase_tn"/>
+<node id="g__phosphoglycerate kinase_tn"/>
+<node id="g__phosphopyruvate hydratase_tn"/>
+<node id="g__pyruvate carboxylase_tn"/>
+<node id="g__ribulose-phosphate 3-epimerase_tn"/>
+<node id="g__rna helicase_tn"/>
+<node id="g__shikimate kinase_tn"/>
+<node id="g__superoxide dismutase_tn"/>
+<node id="g__thymidylate synthase_tn"/>
+<node id="g__transaldolase_tn"/>
+<node id="g__triose-phosphate isomerase_tn"/>
+<node id="g__uridine kinase_tn"/>
+<node id="m__hmdb00014_tn"/>
+<node id="m__hmdb00020_tn"/>
+<node id="m__hmdb00030_tn"/>
+<node id="m__hmdb00043_tn"/>
+<node id="m__hmdb00056_tn"/>
+<node id="m__hmdb00089_tn"/>
+<node id="m__hmdb00097_tn"/>
+<node id="m__hmdb00195_tn"/>
+<node id="m__hmdb00209_tn"/>
+<node id="m__hmdb00239_tn"/>
+<node id="m__hmdb00251_tn"/>
+<node id="m__hmdb00289_tn"/>
+<node id="m__hmdb00296_tn"/>
+<node id="m__hmdb00619_tn"/>
+<node id="m__hmdb00630_tn"/>
+<node id="m__hmdb00764_tn"/>
+<node id="m__hmdb01149_tn"/>
+<node id="m__hmdb01257_tn"/>
+<node id="m__hmdb02322_tn"/>
+<edge id="e1" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_t0" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">0.988048</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e2" source="g__aspartate ammonia-lyase_t0" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">-0.002645</data>
+<data key="key_bootScore">0.630000</data>
+</edge>
+<edge id="e3" source="g__dna helicase_t0" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">0.000603</data>
+<data key="key_bootScore">0.220000</data>
+</edge>
+<edge id="e4" source="g__phosphopyruvate hydratase_t0" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">0.001227</data>
+<data key="key_bootScore">0.460000</data>
+</edge>
+<edge id="e5" source="g__shikimate kinase_t0" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">-0.008939</data>
+<data key="key_bootScore">0.760000</data>
+</edge>
+<edge id="e6" source="g__transaldolase_t0" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">-0.003495</data>
+<data key="key_bootScore">0.270000</data>
+</edge>
+<edge id="e7" source="m__hmdb00014_t0" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">-0.002923</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e8" source="m__hmdb00195_t0" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">-0.530973</data>
+<data key="key_bootScore">0.480000</data>
+</edge>
+<edge id="e9" source="g__peroxiredoxin_tn" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">-0.000651</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e10" source="g__phosphatidate cytidylyltransferase_tn" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">-0.003069</data>
+<data key="key_bootScore">0.270000</data>
+</edge>
+<edge id="e11" source="g__pyruvate carboxylase_tn" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">-0.000936</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e12" source="m__hmdb00043_tn" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">-0.009061</data>
+<data key="key_bootScore">0.230000</data>
+</edge>
+<edge id="e13" source="m__hmdb00056_tn" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">-0.006585</data>
+<data key="key_bootScore">0.730000</data>
+</edge>
+<edge id="e14" source="m__hmdb00296_tn" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn">
+<data key="key_weight">-0.052591</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e15" source="g__3-hydroxybutyryl-coa dehydrogenase_t0" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">0.974198</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e16" source="g__acetyl-coa c-acetyltransferase_t0" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">-0.126271</data>
+<data key="key_bootScore">0.270000</data>
+</edge>
+<edge id="e17" source="g__glutamate decarboxylase_t0" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">0.018943</data>
+<data key="key_bootScore">0.220000</data>
+</edge>
+<edge id="e18" source="g__peroxiredoxin_t0" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">0.001937</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e19" source="g__ribulose-phosphate 3-epimerase_t0" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">-0.005726</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e20" source="g__shikimate kinase_t0" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">0.129274</data>
+<data key="key_bootScore">0.990000</data>
+</edge>
+<edge id="e21" source="m__hmdb00020_t0" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">0.195280</data>
+<data key="key_bootScore">0.180000</data>
+</edge>
+<edge id="e22" source="m__hmdb00195_t0" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">-2.478646</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e23" source="m__hmdb00764_t0" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">-0.261161</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e24" source="g__acetyl-coa c-acetyltransferase_tn" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">0.129754</data>
+<data key="key_bootScore">0.370000</data>
+</edge>
+<edge id="e25" source="g__glutamate decarboxylase_tn" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">-0.014264</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e26" source="g__peroxiredoxin_tn" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">-0.009810</data>
+<data key="key_bootScore">0.380000</data>
+</edge>
+<edge id="e27" source="g__phosphopyruvate hydratase_tn" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">-0.003885</data>
+<data key="key_bootScore">0.230000</data>
+</edge>
+<edge id="e28" source="g__shikimate kinase_tn" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">-0.119864</data>
+<data key="key_bootScore">0.660000</data>
+</edge>
+<edge id="e29" source="m__hmdb00195_tn" target="g__3-hydroxybutyryl-coa dehydrogenase_tn">
+<data key="key_weight">3.043707</data>
+<data key="key_bootScore">0.490000</data>
+</edge>
+<edge id="e30" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn">
+<data key="key_weight">1.035419</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e31" source="g__dephospho-coa kinase_t0" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn">
+<data key="key_weight">-0.049499</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e32" source="g__glutamate dehydrogenase_t0" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn">
+<data key="key_weight">0.000744</data>
+<data key="key_bootScore">0.120000</data>
+</edge>
+<edge id="e33" source="g__peptidylprolyl isomerase_t0" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn">
+<data key="key_weight">-0.022159</data>
+<data key="key_bootScore">0.990000</data>
+</edge>
+<edge id="e34" source="m__hmdb00619_t0" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn">
+<data key="key_weight">-0.038053</data>
+<data key="key_bootScore">0.760000</data>
+</edge>
+<edge id="e35" source="m__hmdb02322_t0" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn">
+<data key="key_weight">0.001229</data>
+<data key="key_bootScore">0.280000</data>
+</edge>
+<edge id="e36" source="g__glutamate dehydrogenase_tn" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn">
+<data key="key_weight">0.011644</data>
+<data key="key_bootScore">0.890000</data>
+</edge>
+<edge id="e37" source="m__hmdb00619_tn" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn">
+<data key="key_weight">-0.010836</data>
+<data key="key_bootScore">0.210000</data>
+</edge>
+<edge id="e38" source="m__hmdb02322_tn" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn">
+<data key="key_weight">0.003263</data>
+<data key="key_bootScore">0.690000</data>
+</edge>
+<edge id="e39" source="g__5-formyltetrahydrofolate cyclo-ligase_t0" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">0.995739</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e40" source="g__acetyl-coa c-acetyltransferase_t0" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">-0.002364</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e41" source="g__beta-lactamase_t0" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">-0.004581</data>
+<data key="key_bootScore">0.500000</data>
+</edge>
+<edge id="e42" source="g__superoxide dismutase_t0" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">-0.001521</data>
+<data key="key_bootScore">0.760000</data>
+</edge>
+<edge id="e43" source="g__transaldolase_t0" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">-0.013197</data>
+<data key="key_bootScore">0.220000</data>
+</edge>
+<edge id="e44" source="m__hmdb00195_t0" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">-1.225845</data>
+<data key="key_bootScore">0.910000</data>
+</edge>
+<edge id="e45" source="g__3-hydroxybutyryl-coa dehydrogenase_tn" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">-0.002127</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e46" source="g__aspartate ammonia-lyase_tn" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">-0.004972</data>
+<data key="key_bootScore">0.690000</data>
+</edge>
+<edge id="e47" source="g__dihydrolipoyl dehydrogenase_tn" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">0.013181</data>
+<data key="key_bootScore">0.330000</data>
+</edge>
+<edge id="e48" source="g__superoxide dismutase_tn" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">-0.000339</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e49" source="g__transaldolase_tn" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">0.009356</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e50" source="m__hmdb00289_tn" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">-0.002756</data>
+<data key="key_bootScore">0.400000</data>
+</edge>
+<edge id="e51" source="m__hmdb00296_tn" target="g__5-formyltetrahydrofolate cyclo-ligase_tn">
+<data key="key_weight">-0.044636</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e52" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">0.102951</data>
+<data key="key_bootScore">0.740000</data>
+</edge>
+<edge id="e53" source="g__acetyl-coa c-acetyltransferase_t0" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">1.007286</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e54" source="g__glutamate dehydrogenase_t0" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">-0.034547</data>
+<data key="key_bootScore">0.830000</data>
+</edge>
+<edge id="e55" source="g__phosphatidate cytidylyltransferase_t0" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">-0.006177</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e56" source="m__hmdb00056_t0" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">-0.048457</data>
+<data key="key_bootScore">0.580000</data>
+</edge>
+<edge id="e57" source="m__hmdb00296_t0" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">0.339819</data>
+<data key="key_bootScore">0.500000</data>
+</edge>
+<edge id="e58" source="m__hmdb00764_t0" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">-0.252276</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e59" source="m__hmdb01149_t0" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">0.012090</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e60" source="m__hmdb02322_t0" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">0.008983</data>
+<data key="key_bootScore">0.200000</data>
+</edge>
+<edge id="e61" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">-0.078303</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e62" source="g__glutamate dehydrogenase_tn" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">0.024154</data>
+<data key="key_bootScore">0.230000</data>
+</edge>
+<edge id="e63" source="m__hmdb00043_tn" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">-0.089645</data>
+<data key="key_bootScore">0.210000</data>
+</edge>
+<edge id="e64" source="m__hmdb00056_tn" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">0.031137</data>
+<data key="key_bootScore">0.150000</data>
+</edge>
+<edge id="e65" source="m__hmdb00195_tn" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">0.307149</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e66" source="m__hmdb00289_tn" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">0.001032</data>
+<data key="key_bootScore">0.120000</data>
+</edge>
+<edge id="e67" source="m__hmdb01149_tn" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">-0.000528</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e68" source="m__hmdb02322_tn" target="g__acetyl-coa c-acetyltransferase_tn">
+<data key="key_weight">-0.008805</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e69" source="g__aldose 1-epimerase_t0" target="g__aldose 1-epimerase_tn">
+<data key="key_weight">0.956193</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e70" source="g__phosphoglycerate kinase_t0" target="g__aldose 1-epimerase_tn">
+<data key="key_weight">-0.002773</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e71" source="g__transaldolase_t0" target="g__aldose 1-epimerase_tn">
+<data key="key_weight">-0.339139</data>
+<data key="key_bootScore">0.840000</data>
+</edge>
+<edge id="e72" source="m__hmdb00020_t0" target="g__aldose 1-epimerase_tn">
+<data key="key_weight">0.633043</data>
+<data key="key_bootScore">0.650000</data>
+</edge>
+<edge id="e73" source="m__hmdb00056_t0" target="g__aldose 1-epimerase_tn">
+<data key="key_weight">-0.021980</data>
+<data key="key_bootScore">0.880000</data>
+</edge>
+<edge id="e74" source="g__acetyl-coa c-acetyltransferase_tn" target="g__aldose 1-epimerase_tn">
+<data key="key_weight">0.012479</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e75" source="g__beta-lactamase_tn" target="g__aldose 1-epimerase_tn">
+<data key="key_weight">0.013428</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e76" source="g__dihydrolipoyl dehydrogenase_tn" target="g__aldose 1-epimerase_tn">
+<data key="key_weight">-0.053522</data>
+<data key="key_bootScore">0.800000</data>
+</edge>
+<edge id="e77" source="g__transaldolase_tn" target="g__aldose 1-epimerase_tn">
+<data key="key_weight">0.316212</data>
+<data key="key_bootScore">0.820000</data>
+</edge>
+<edge id="e78" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="g__aspartate ammonia-lyase_tn">
+<data key="key_weight">-0.033715</data>
+<data key="key_bootScore">0.900000</data>
+</edge>
+<edge id="e79" source="g__aspartate ammonia-lyase_t0" target="g__aspartate ammonia-lyase_tn">
+<data key="key_weight">1.026278</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e80" source="g__dihydrolipoyl dehydrogenase_t0" target="g__aspartate ammonia-lyase_tn">
+<data key="key_weight">0.071243</data>
+<data key="key_bootScore">0.480000</data>
+</edge>
+<edge id="e81" source="g__fructose-bisphosphate aldolase_t0" target="g__aspartate ammonia-lyase_tn">
+<data key="key_weight">-0.031421</data>
+<data key="key_bootScore">0.960000</data>
+</edge>
+<edge id="e82" source="m__hmdb00014_t0" target="g__aspartate ammonia-lyase_tn">
+<data key="key_weight">0.391369</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e83" source="g__acetyl-coa c-acetyltransferase_tn" target="g__aspartate ammonia-lyase_tn">
+<data key="key_weight">-0.027058</data>
+<data key="key_bootScore">0.510000</data>
+</edge>
+<edge id="e84" source="g__transaldolase_tn" target="g__aspartate ammonia-lyase_tn">
+<data key="key_weight">0.080873</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e85" source="g__beta-lactamase_t0" target="g__beta-lactamase_tn">
+<data key="key_weight">1.025446</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e86" source="g__dephospho-coa kinase_t0" target="g__beta-lactamase_tn">
+<data key="key_weight">-0.095509</data>
+<data key="key_bootScore">0.980000</data>
+</edge>
+<edge id="e87" source="g__glucose-1-phosphate adenylyltransferase_t0" target="g__beta-lactamase_tn">
+<data key="key_weight">0.002261</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e88" source="g__glutamate dehydrogenase_t0" target="g__beta-lactamase_tn">
+<data key="key_weight">0.005727</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e89" source="g__histidine kinase_t0" target="g__beta-lactamase_tn">
+<data key="key_weight">0.008526</data>
+<data key="key_bootScore">0.210000</data>
+</edge>
+<edge id="e90" source="g__thymidylate synthase_t0" target="g__beta-lactamase_tn">
+<data key="key_weight">-0.062249</data>
+<data key="key_bootScore">0.410000</data>
+</edge>
+<edge id="e91" source="m__hmdb00097_t0" target="g__beta-lactamase_tn">
+<data key="key_weight">0.042490</data>
+<data key="key_bootScore">0.120000</data>
+</edge>
+<edge id="e92" source="m__hmdb00251_t0" target="g__beta-lactamase_tn">
+<data key="key_weight">0.202857</data>
+<data key="key_bootScore">0.360000</data>
+</edge>
+<edge id="e93" source="g__dephospho-coa kinase_tn" target="g__beta-lactamase_tn">
+<data key="key_weight">0.064319</data>
+<data key="key_bootScore">0.500000</data>
+</edge>
+<edge id="e94" source="g__glutamate dehydrogenase_tn" target="g__beta-lactamase_tn">
+<data key="key_weight">0.011281</data>
+<data key="key_bootScore">0.350000</data>
+</edge>
+<edge id="e95" source="m__hmdb00097_tn" target="g__beta-lactamase_tn">
+<data key="key_weight">0.139291</data>
+<data key="key_bootScore">0.470000</data>
+</edge>
+<edge id="e96" source="m__hmdb00289_tn" target="g__beta-lactamase_tn">
+<data key="key_weight">0.018547</data>
+<data key="key_bootScore">0.960000</data>
+</edge>
+<edge id="e97" source="g__dephospho-coa kinase_t0" target="g__dephospho-coa kinase_tn">
+<data key="key_weight">0.976488</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e98" source="g__thymidylate synthase_t0" target="g__dephospho-coa kinase_tn">
+<data key="key_weight">-0.064405</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e99" source="g__uridine kinase_t0" target="g__dephospho-coa kinase_tn">
+<data key="key_weight">-2.345391</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e100" source="g__uridine kinase_tn" target="g__dephospho-coa kinase_tn">
+<data key="key_weight">2.452675</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e101" source="m__hmdb00089_tn" target="g__dephospho-coa kinase_tn">
+<data key="key_weight">-0.008729</data>
+<data key="key_bootScore">0.960000</data>
+</edge>
+<edge id="e102" source="m__hmdb02322_tn" target="g__dephospho-coa kinase_tn">
+<data key="key_weight">0.007395</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e103" source="g__aspartate ammonia-lyase_t0" target="g__dihydrolipoyl dehydrogenase_tn">
+<data key="key_weight">-0.006551</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e104" source="g__dihydrolipoyl dehydrogenase_t0" target="g__dihydrolipoyl dehydrogenase_tn">
+<data key="key_weight">1.030129</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e105" source="g__peptidylprolyl isomerase_t0" target="g__dihydrolipoyl dehydrogenase_tn">
+<data key="key_weight">-0.000748</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e106" source="m__hmdb00097_t0" target="g__dihydrolipoyl dehydrogenase_tn">
+<data key="key_weight">-0.088819</data>
+<data key="key_bootScore">0.850000</data>
+</edge>
+<edge id="e107" source="m__hmdb00764_t0" target="g__dihydrolipoyl dehydrogenase_tn">
+<data key="key_weight">1.521000</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e108" source="m__hmdb02322_t0" target="g__dihydrolipoyl dehydrogenase_tn">
+<data key="key_weight">-0.000276</data>
+<data key="key_bootScore">0.150000</data>
+</edge>
+<edge id="e109" source="g__l-serine ammonia-lyase_tn" target="g__dihydrolipoyl dehydrogenase_tn">
+<data key="key_weight">-0.024600</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e110" source="m__hmdb00209_tn" target="g__dihydrolipoyl dehydrogenase_tn">
+<data key="key_weight">-0.976399</data>
+<data key="key_bootScore">0.720000</data>
+</edge>
+<edge id="e111" source="g__dna helicase_t0" target="g__dna helicase_tn">
+<data key="key_weight">0.560240</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e112" source="m__hmdb00014_t0" target="g__dna helicase_tn">
+<data key="key_weight">-0.612491</data>
+<data key="key_bootScore">0.870000</data>
+</edge>
+<edge id="e113" source="m__hmdb00195_t0" target="g__dna helicase_tn">
+<data key="key_weight">-19.365090</data>
+<data key="key_bootScore">0.730000</data>
+</edge>
+<edge id="e114" source="m__hmdb00239_t0" target="g__dna helicase_tn">
+<data key="key_weight">1.375811</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e115" source="m__hmdb00195_tn" target="g__dna helicase_tn">
+<data key="key_weight">-7.323925</data>
+<data key="key_bootScore">0.270000</data>
+</edge>
+<edge id="e116" source="m__hmdb00239_tn" target="g__dna helicase_tn">
+<data key="key_weight">-1.172989</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e117" source="m__hmdb00764_tn" target="g__dna helicase_tn">
+<data key="key_weight">20.285293</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e118" source="g__dihydrolipoyl dehydrogenase_t0" target="g__dna-directed rna polymerase_tn">
+<data key="key_weight">-0.293088</data>
+<data key="key_bootScore">0.890000</data>
+</edge>
+<edge id="e119" source="g__dna-directed rna polymerase_t0" target="g__dna-directed rna polymerase_tn">
+<data key="key_weight">0.952526</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e120" source="g__glucose-1-phosphate adenylyltransferase_t0" target="g__dna-directed rna polymerase_tn">
+<data key="key_weight">-0.010698</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e121" source="g__l-serine ammonia-lyase_t0" target="g__dna-directed rna polymerase_tn">
+<data key="key_weight">-0.084993</data>
+<data key="key_bootScore">0.730000</data>
+</edge>
+<edge id="e122" source="m__hmdb00014_t0" target="g__dna-directed rna polymerase_tn">
+<data key="key_weight">0.047721</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e123" source="m__hmdb00289_t0" target="g__dna-directed rna polymerase_tn">
+<data key="key_weight">-0.013786</data>
+<data key="key_bootScore">0.200000</data>
+</edge>
+<edge id="e124" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn" target="g__dna-directed rna polymerase_tn">
+<data key="key_weight">-0.101120</data>
+<data key="key_bootScore">0.950000</data>
+</edge>
+<edge id="e125" source="g__aspartate ammonia-lyase_tn" target="g__dna-directed rna polymerase_tn">
+<data key="key_weight">0.039867</data>
+<data key="key_bootScore">0.610000</data>
+</edge>
+<edge id="e126" source="g__l-serine ammonia-lyase_tn" target="g__dna-directed rna polymerase_tn">
+<data key="key_weight">-0.029498</data>
+<data key="key_bootScore">0.150000</data>
+</edge>
+<edge id="e127" source="m__hmdb00289_tn" target="g__dna-directed rna polymerase_tn">
+<data key="key_weight">-0.043360</data>
+<data key="key_bootScore">0.800000</data>
+</edge>
+<edge id="e128" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_t0" target="g__endopeptidase clp_tn">
+<data key="key_weight">0.013231</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e129" source="g__dihydrolipoyl dehydrogenase_t0" target="g__endopeptidase clp_tn">
+<data key="key_weight">-0.030780</data>
+<data key="key_bootScore">0.550000</data>
+</edge>
+<edge id="e130" source="g__endopeptidase clp_t0" target="g__endopeptidase clp_tn">
+<data key="key_weight">0.969266</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e131" source="g__fructose-bisphosphate aldolase_t0" target="g__endopeptidase clp_tn">
+<data key="key_weight">0.084903</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e132" source="g__methionyl aminopeptidase_t0" target="g__endopeptidase clp_tn">
+<data key="key_weight">-0.018358</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e133" source="m__hmdb00619_t0" target="g__endopeptidase clp_tn">
+<data key="key_weight">-0.007933</data>
+<data key="key_bootScore">0.400000</data>
+</edge>
+<edge id="e134" source="g__fructose-bisphosphate aldolase_tn" target="g__endopeptidase clp_tn">
+<data key="key_weight">-0.064383</data>
+<data key="key_bootScore">0.820000</data>
+</edge>
+<edge id="e135" source="g__methionyl aminopeptidase_tn" target="g__endopeptidase clp_tn">
+<data key="key_weight">0.025260</data>
+<data key="key_bootScore">0.730000</data>
+</edge>
+<edge id="e136" source="m__hmdb00020_tn" target="g__endopeptidase clp_tn">
+<data key="key_weight">1.761007</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e137" source="g__aspartate ammonia-lyase_t0" target="g__fructose-bisphosphate aldolase_tn">
+<data key="key_weight">-0.435297</data>
+<data key="key_bootScore">0.850000</data>
+</edge>
+<edge id="e138" source="g__fructose-bisphosphate aldolase_t0" target="g__fructose-bisphosphate aldolase_tn">
+<data key="key_weight">0.862262</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e139" source="g__l-serine ammonia-lyase_t0" target="g__fructose-bisphosphate aldolase_tn">
+<data key="key_weight">-0.167867</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e140" source="m__hmdb00195_t0" target="g__fructose-bisphosphate aldolase_tn">
+<data key="key_weight">3.226214</data>
+<data key="key_bootScore">0.830000</data>
+</edge>
+<edge id="e141" source="g__3-hydroxybutyryl-coa dehydrogenase_tn" target="g__fructose-bisphosphate aldolase_tn">
+<data key="key_weight">0.128006</data>
+<data key="key_bootScore">0.900000</data>
+</edge>
+<edge id="e142" source="g__aspartate ammonia-lyase_tn" target="g__fructose-bisphosphate aldolase_tn">
+<data key="key_weight">0.446647</data>
+<data key="key_bootScore">0.850000</data>
+</edge>
+<edge id="e143" source="g__methionyl aminopeptidase_tn" target="g__fructose-bisphosphate aldolase_tn">
+<data key="key_weight">-0.013527</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e144" source="g__phosphopyruvate hydratase_tn" target="g__fructose-bisphosphate aldolase_tn">
+<data key="key_weight">-0.002166</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e145" source="m__hmdb00764_tn" target="g__fructose-bisphosphate aldolase_tn">
+<data key="key_weight">0.977605</data>
+<data key="key_bootScore">0.150000</data>
+</edge>
+<edge id="e146" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_t0" target="g__glucose-1-phosphate adenylyltransferase_tn">
+<data key="key_weight">-0.195960</data>
+<data key="key_bootScore">0.670000</data>
+</edge>
+<edge id="e147" source="g__glucose-1-phosphate adenylyltransferase_t0" target="g__glucose-1-phosphate adenylyltransferase_tn">
+<data key="key_weight">1.004028</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e148" source="g__peroxiredoxin_t0" target="g__glucose-1-phosphate adenylyltransferase_tn">
+<data key="key_weight">0.023513</data>
+<data key="key_bootScore">0.430000</data>
+</edge>
+<edge id="e149" source="m__hmdb00020_t0" target="g__glucose-1-phosphate adenylyltransferase_tn">
+<data key="key_weight">26.291104</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e150" source="m__hmdb00296_t0" target="g__glucose-1-phosphate adenylyltransferase_tn">
+<data key="key_weight">1.644754</data>
+<data key="key_bootScore">0.490000</data>
+</edge>
+<edge id="e151" source="m__hmdb01149_t0" target="g__glucose-1-phosphate adenylyltransferase_tn">
+<data key="key_weight">0.026000</data>
+<data key="key_bootScore">0.430000</data>
+</edge>
+<edge id="e152" source="g__phosphopyruvate hydratase_tn" target="g__glucose-1-phosphate adenylyltransferase_tn">
+<data key="key_weight">-0.001843</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e153" source="m__hmdb00014_tn" target="g__glucose-1-phosphate adenylyltransferase_tn">
+<data key="key_weight">-0.086470</data>
+<data key="key_bootScore">0.390000</data>
+</edge>
+<edge id="e154" source="m__hmdb00020_tn" target="g__glucose-1-phosphate adenylyltransferase_tn">
+<data key="key_weight">-28.506443</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e155" source="g__3-hydroxybutyryl-coa dehydrogenase_t0" target="g__glutamate decarboxylase_tn">
+<data key="key_weight">0.220464</data>
+<data key="key_bootScore">0.650000</data>
+</edge>
+<edge id="e156" source="g__glutamate decarboxylase_t0" target="g__glutamate decarboxylase_tn">
+<data key="key_weight">1.057771</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e157" source="g__glutamate dehydrogenase_t0" target="g__glutamate decarboxylase_tn">
+<data key="key_weight">0.004268</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e158" source="m__hmdb00195_t0" target="g__glutamate decarboxylase_tn">
+<data key="key_weight">1.331519</data>
+<data key="key_bootScore">0.210000</data>
+</edge>
+<edge id="e159" source="m__hmdb00619_t0" target="g__glutamate decarboxylase_tn">
+<data key="key_weight">-0.659295</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e160" source="m__hmdb02322_t0" target="g__glutamate decarboxylase_tn">
+<data key="key_weight">-0.004628</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e161" source="g__3-hydroxybutyryl-coa dehydrogenase_tn" target="g__glutamate decarboxylase_tn">
+<data key="key_weight">-0.354780</data>
+<data key="key_bootScore">0.730000</data>
+</edge>
+<edge id="e162" source="g__uridine kinase_tn" target="g__glutamate decarboxylase_tn">
+<data key="key_weight">0.037405</data>
+<data key="key_bootScore">0.380000</data>
+</edge>
+<edge id="e163" source="m__hmdb00239_tn" target="g__glutamate decarboxylase_tn">
+<data key="key_weight">-0.002774</data>
+<data key="key_bootScore">0.150000</data>
+</edge>
+<edge id="e164" source="m__hmdb00619_tn" target="g__glutamate decarboxylase_tn">
+<data key="key_weight">0.540840</data>
+<data key="key_bootScore">0.680000</data>
+</edge>
+<edge id="e165" source="m__hmdb02322_tn" target="g__glutamate decarboxylase_tn">
+<data key="key_weight">0.010302</data>
+<data key="key_bootScore">0.550000</data>
+</edge>
+<edge id="e166" source="g__glutamate dehydrogenase_t0" target="g__glutamate dehydrogenase_tn">
+<data key="key_weight">0.977859</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e167" source="g__pyruvate carboxylase_t0" target="g__glutamate dehydrogenase_tn">
+<data key="key_weight">-0.512136</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e168" source="g__thymidylate synthase_t0" target="g__glutamate dehydrogenase_tn">
+<data key="key_weight">-2.411090</data>
+<data key="key_bootScore">0.630000</data>
+</edge>
+<edge id="e169" source="g__transaldolase_t0" target="g__glutamate dehydrogenase_tn">
+<data key="key_weight">-0.043830</data>
+<data key="key_bootScore">0.340000</data>
+</edge>
+<edge id="e170" source="m__hmdb00289_t0" target="g__glutamate dehydrogenase_tn">
+<data key="key_weight">0.007000</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e171" source="g__aldose 1-epimerase_tn" target="g__glutamate dehydrogenase_tn">
+<data key="key_weight">0.087177</data>
+<data key="key_bootScore">0.440000</data>
+</edge>
+<edge id="e172" source="g__pyruvate carboxylase_tn" target="g__glutamate dehydrogenase_tn">
+<data key="key_weight">0.393191</data>
+<data key="key_bootScore">0.400000</data>
+</edge>
+<edge id="e173" source="g__thymidylate synthase_tn" target="g__glutamate dehydrogenase_tn">
+<data key="key_weight">2.657859</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e174" source="m__hmdb00289_tn" target="g__glutamate dehydrogenase_tn">
+<data key="key_weight">0.044235</data>
+<data key="key_bootScore">0.890000</data>
+</edge>
+<edge id="e175" source="g__3-hydroxybutyryl-coa dehydrogenase_t0" target="g__histidine kinase_tn">
+<data key="key_weight">-0.010969</data>
+<data key="key_bootScore">0.260000</data>
+</edge>
+<edge id="e176" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="g__histidine kinase_tn">
+<data key="key_weight">0.005893</data>
+<data key="key_bootScore">0.320000</data>
+</edge>
+<edge id="e177" source="g__fructose-bisphosphate aldolase_t0" target="g__histidine kinase_tn">
+<data key="key_weight">0.045116</data>
+<data key="key_bootScore">0.960000</data>
+</edge>
+<edge id="e178" source="g__histidine kinase_t0" target="g__histidine kinase_tn">
+<data key="key_weight">1.017361</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e179" source="m__hmdb00239_t0" target="g__histidine kinase_tn">
+<data key="key_weight">-0.008148</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e180" source="m__hmdb00764_t0" target="g__histidine kinase_tn">
+<data key="key_weight">-2.575829</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e181" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn" target="g__histidine kinase_tn">
+<data key="key_weight">0.001877</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e182" source="g__aspartate ammonia-lyase_tn" target="g__histidine kinase_tn">
+<data key="key_weight">-0.002666</data>
+<data key="key_bootScore">0.290000</data>
+</edge>
+<edge id="e183" source="g__fructose-bisphosphate aldolase_tn" target="g__histidine kinase_tn">
+<data key="key_weight">-0.036191</data>
+<data key="key_bootScore">0.460000</data>
+</edge>
+<edge id="e184" source="m__hmdb00020_tn" target="g__histidine kinase_tn">
+<data key="key_weight">-2.196282</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e185" source="m__hmdb00239_tn" target="g__histidine kinase_tn">
+<data key="key_weight">0.009589</data>
+<data key="key_bootScore">0.310000</data>
+</edge>
+<edge id="e186" source="g__aspartate ammonia-lyase_t0" target="g__l-serine ammonia-lyase_tn">
+<data key="key_weight">0.289876</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e187" source="g__fructose-bisphosphate aldolase_t0" target="g__l-serine ammonia-lyase_tn">
+<data key="key_weight">0.019625</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e188" source="g__l-serine ammonia-lyase_t0" target="g__l-serine ammonia-lyase_tn">
+<data key="key_weight">0.935810</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e189" source="g__peroxiredoxin_t0" target="g__l-serine ammonia-lyase_tn">
+<data key="key_weight">-0.007386</data>
+<data key="key_bootScore">0.510000</data>
+</edge>
+<edge id="e190" source="g__shikimate kinase_t0" target="g__l-serine ammonia-lyase_tn">
+<data key="key_weight">0.008403</data>
+<data key="key_bootScore">0.470000</data>
+</edge>
+<edge id="e191" source="g__aspartate ammonia-lyase_tn" target="g__l-serine ammonia-lyase_tn">
+<data key="key_weight">-0.252768</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e192" source="m__hmdb00195_tn" target="g__l-serine ammonia-lyase_tn">
+<data key="key_weight">1.474900</data>
+<data key="key_bootScore">0.960000</data>
+</edge>
+<edge id="e193" source="g__beta-lactamase_t0" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">0.037616</data>
+<data key="key_bootScore">0.300000</data>
+</edge>
+<edge id="e194" source="g__dephospho-coa kinase_t0" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">0.075745</data>
+<data key="key_bootScore">0.440000</data>
+</edge>
+<edge id="e195" source="g__dihydrolipoyl dehydrogenase_t0" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">-0.068327</data>
+<data key="key_bootScore">0.470000</data>
+</edge>
+<edge id="e196" source="g__fructose-bisphosphate aldolase_t0" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">0.086864</data>
+<data key="key_bootScore">0.820000</data>
+</edge>
+<edge id="e197" source="g__methionyl aminopeptidase_t0" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">0.985827</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e198" source="g__transaldolase_t0" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">-0.076480</data>
+<data key="key_bootScore">0.530000</data>
+</edge>
+<edge id="e199" source="m__hmdb00014_t0" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">-0.039800</data>
+<data key="key_bootScore">0.150000</data>
+</edge>
+<edge id="e200" source="m__hmdb00089_t0" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">-0.009098</data>
+<data key="key_bootScore">0.270000</data>
+</edge>
+<edge id="e201" source="g__dephospho-coa kinase_tn" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">-0.086219</data>
+<data key="key_bootScore">0.440000</data>
+</edge>
+<edge id="e202" source="g__dna-directed rna polymerase_tn" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">0.026210</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e203" source="g__fructose-bisphosphate aldolase_tn" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">-0.071267</data>
+<data key="key_bootScore">0.400000</data>
+</edge>
+<edge id="e204" source="g__superoxide dismutase_tn" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">-0.000948</data>
+<data key="key_bootScore">0.180000</data>
+</edge>
+<edge id="e205" source="g__transaldolase_tn" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">0.036362</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e206" source="m__hmdb00289_tn" target="g__methionyl aminopeptidase_tn">
+<data key="key_weight">-0.005152</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e207" source="g__aldose 1-epimerase_t0" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">-0.654748</data>
+<data key="key_bootScore">0.730000</data>
+</edge>
+<edge id="e208" source="g__aspartate ammonia-lyase_t0" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">-0.003890</data>
+<data key="key_bootScore">0.150000</data>
+</edge>
+<edge id="e209" source="g__dna-directed rna polymerase_t0" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">-0.165950</data>
+<data key="key_bootScore">0.450000</data>
+</edge>
+<edge id="e210" source="g__peptidylprolyl isomerase_t0" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">0.957233</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e211" source="g__peroxiredoxin_t0" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">0.015281</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e212" source="m__hmdb00239_t0" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">-0.003638</data>
+<data key="key_bootScore">0.300000</data>
+</edge>
+<edge id="e213" source="g__aldose 1-epimerase_tn" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">0.756375</data>
+<data key="key_bootScore">0.740000</data>
+</edge>
+<edge id="e214" source="g__dna-directed rna polymerase_tn" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">0.176830</data>
+<data key="key_bootScore">0.460000</data>
+</edge>
+<edge id="e215" source="g__glutamate decarboxylase_tn" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">-0.012360</data>
+<data key="key_bootScore">0.310000</data>
+</edge>
+<edge id="e216" source="g__shikimate kinase_tn" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">0.103467</data>
+<data key="key_bootScore">0.920000</data>
+</edge>
+<edge id="e217" source="m__hmdb00020_tn" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">-0.357101</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e218" source="m__hmdb00089_tn" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">0.007516</data>
+<data key="key_bootScore">0.180000</data>
+</edge>
+<edge id="e219" source="m__hmdb01149_tn" target="g__peptidylprolyl isomerase_tn">
+<data key="key_weight">-0.015832</data>
+<data key="key_bootScore">0.180000</data>
+</edge>
+<edge id="e220" source="g__dephospho-coa kinase_t0" target="g__peroxiredoxin_tn">
+<data key="key_weight">0.003448</data>
+<data key="key_bootScore">0.120000</data>
+</edge>
+<edge id="e221" source="g__fructose-bisphosphate aldolase_t0" target="g__peroxiredoxin_tn">
+<data key="key_weight">0.069192</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e222" source="g__glucose-1-phosphate adenylyltransferase_t0" target="g__peroxiredoxin_tn">
+<data key="key_weight">-0.014266</data>
+<data key="key_bootScore">0.320000</data>
+</edge>
+<edge id="e223" source="g__peroxiredoxin_t0" target="g__peroxiredoxin_tn">
+<data key="key_weight">1.000093</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e224" source="m__hmdb00020_t0" target="g__peroxiredoxin_tn">
+<data key="key_weight">1.137268</data>
+<data key="key_bootScore">0.290000</data>
+</edge>
+<edge id="e225" source="m__hmdb00619_t0" target="g__peroxiredoxin_tn">
+<data key="key_weight">-0.131501</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e226" source="g__glucose-1-phosphate adenylyltransferase_tn" target="g__peroxiredoxin_tn">
+<data key="key_weight">-0.034334</data>
+<data key="key_bootScore">0.680000</data>
+</edge>
+<edge id="e227" source="m__hmdb00020_tn" target="g__peroxiredoxin_tn">
+<data key="key_weight">2.529312</data>
+<data key="key_bootScore">0.710000</data>
+</edge>
+<edge id="e228" source="m__hmdb01149_tn" target="g__peroxiredoxin_tn">
+<data key="key_weight">0.080165</data>
+<data key="key_bootScore">0.760000</data>
+</edge>
+<edge id="e229" source="g__glutamate dehydrogenase_t0" target="g__phosphatidate cytidylyltransferase_tn">
+<data key="key_weight">-0.011536</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e230" source="g__phosphatidate cytidylyltransferase_t0" target="g__phosphatidate cytidylyltransferase_tn">
+<data key="key_weight">0.923762</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e231" source="g__pyruvate carboxylase_t0" target="g__phosphatidate cytidylyltransferase_tn">
+<data key="key_weight">-0.513213</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e232" source="g__pyruvate carboxylase_tn" target="g__phosphatidate cytidylyltransferase_tn">
+<data key="key_weight">0.563469</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e233" source="m__hmdb00043_tn" target="g__phosphatidate cytidylyltransferase_tn">
+<data key="key_weight">-0.099232</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e234" source="m__hmdb00289_tn" target="g__phosphatidate cytidylyltransferase_tn">
+<data key="key_weight">0.005569</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e235" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="g__phosphoglycerate kinase_tn">
+<data key="key_weight">-0.002633</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e236" source="g__dna helicase_t0" target="g__phosphoglycerate kinase_tn">
+<data key="key_weight">0.001886</data>
+<data key="key_bootScore">0.200000</data>
+</edge>
+<edge id="e237" source="g__fructose-bisphosphate aldolase_t0" target="g__phosphoglycerate kinase_tn">
+<data key="key_weight">0.009390</data>
+<data key="key_bootScore">0.340000</data>
+</edge>
+<edge id="e238" source="g__peroxiredoxin_t0" target="g__phosphoglycerate kinase_tn">
+<data key="key_weight">-0.019238</data>
+<data key="key_bootScore">0.730000</data>
+</edge>
+<edge id="e239" source="g__phosphoglycerate kinase_t0" target="g__phosphoglycerate kinase_tn">
+<data key="key_weight">1.023094</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e240" source="g__ribulose-phosphate 3-epimerase_t0" target="g__phosphoglycerate kinase_tn">
+<data key="key_weight">-0.017726</data>
+<data key="key_bootScore">0.750000</data>
+</edge>
+<edge id="e241" source="m__hmdb00764_t0" target="g__phosphoglycerate kinase_tn">
+<data key="key_weight">-6.503155</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e242" source="g__l-serine ammonia-lyase_tn" target="g__phosphoglycerate kinase_tn">
+<data key="key_weight">0.032037</data>
+<data key="key_bootScore">0.660000</data>
+</edge>
+<edge id="e243" source="m__hmdb00195_tn" target="g__phosphoglycerate kinase_tn">
+<data key="key_weight">2.545146</data>
+<data key="key_bootScore">0.930000</data>
+</edge>
+<edge id="e244" source="g__aldose 1-epimerase_t0" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">0.505806</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e245" source="g__fructose-bisphosphate aldolase_t0" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">0.031275</data>
+<data key="key_bootScore">0.330000</data>
+</edge>
+<edge id="e246" source="g__phosphopyruvate hydratase_t0" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">0.987698</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e247" source="g__superoxide dismutase_t0" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">0.003763</data>
+<data key="key_bootScore">0.180000</data>
+</edge>
+<edge id="e248" source="g__thymidylate synthase_t0" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">-0.374265</data>
+<data key="key_bootScore">0.210000</data>
+</edge>
+<edge id="e249" source="g__transaldolase_t0" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">0.222213</data>
+<data key="key_bootScore">0.840000</data>
+</edge>
+<edge id="e250" source="m__hmdb00014_t0" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">-0.194354</data>
+<data key="key_bootScore">0.290000</data>
+</edge>
+<edge id="e251" source="m__hmdb00020_t0" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">-4.581811</data>
+<data key="key_bootScore">0.540000</data>
+</edge>
+<edge id="e252" source="m__hmdb00056_t0" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">0.013478</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e253" source="m__hmdb00097_t0" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">-0.865903</data>
+<data key="key_bootScore">0.440000</data>
+</edge>
+<edge id="e254" source="g__aldose 1-epimerase_tn" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">-0.538933</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e255" source="g__dihydrolipoyl dehydrogenase_tn" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">0.134272</data>
+<data key="key_bootScore">0.220000</data>
+</edge>
+<edge id="e256" source="g__thymidylate synthase_tn" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">0.222482</data>
+<data key="key_bootScore">0.210000</data>
+</edge>
+<edge id="e257" source="m__hmdb00014_tn" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">-0.541857</data>
+<data key="key_bootScore">0.690000</data>
+</edge>
+<edge id="e258" source="m__hmdb00209_tn" target="g__phosphopyruvate hydratase_tn">
+<data key="key_weight">-6.859477</data>
+<data key="key_bootScore">0.330000</data>
+</edge>
+<edge id="e259" source="g__pyruvate carboxylase_t0" target="g__pyruvate carboxylase_tn">
+<data key="key_weight">0.989470</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e260" source="g__uridine kinase_t0" target="g__pyruvate carboxylase_tn">
+<data key="key_weight">-1.996305</data>
+<data key="key_bootScore">0.980000</data>
+</edge>
+<edge id="e261" source="m__hmdb00030_t0" target="g__pyruvate carboxylase_tn">
+<data key="key_weight">0.012682</data>
+<data key="key_bootScore">0.570000</data>
+</edge>
+<edge id="e262" source="m__hmdb00056_t0" target="g__pyruvate carboxylase_tn">
+<data key="key_weight">-0.011820</data>
+<data key="key_bootScore">0.520000</data>
+</edge>
+<edge id="e263" source="m__hmdb00195_t0" target="g__pyruvate carboxylase_tn">
+<data key="key_weight">3.352715</data>
+<data key="key_bootScore">0.320000</data>
+</edge>
+<edge id="e264" source="g__uridine kinase_tn" target="g__pyruvate carboxylase_tn">
+<data key="key_weight">2.031639</data>
+<data key="key_bootScore">0.980000</data>
+</edge>
+<edge id="e265" source="m__hmdb00030_tn" target="g__pyruvate carboxylase_tn">
+<data key="key_weight">-0.009404</data>
+<data key="key_bootScore">0.180000</data>
+</edge>
+<edge id="e266" source="m__hmdb00056_tn" target="g__pyruvate carboxylase_tn">
+<data key="key_weight">-0.008396</data>
+<data key="key_bootScore">0.460000</data>
+</edge>
+<edge id="e267" source="m__hmdb00195_tn" target="g__pyruvate carboxylase_tn">
+<data key="key_weight">-4.338301</data>
+<data key="key_bootScore">0.680000</data>
+</edge>
+<edge id="e268" source="m__hmdb00289_tn" target="g__pyruvate carboxylase_tn">
+<data key="key_weight">0.003066</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e269" source="g__aspartate ammonia-lyase_t0" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">-0.011891</data>
+<data key="key_bootScore">0.540000</data>
+</edge>
+<edge id="e270" source="g__dihydrolipoyl dehydrogenase_t0" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">0.028387</data>
+<data key="key_bootScore">0.260000</data>
+</edge>
+<edge id="e271" source="g__l-serine ammonia-lyase_t0" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">0.013274</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e272" source="g__pyruvate carboxylase_t0" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">-0.119401</data>
+<data key="key_bootScore">0.430000</data>
+</edge>
+<edge id="e273" source="g__ribulose-phosphate 3-epimerase_t0" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">0.961820</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e274" source="g__thymidylate synthase_t0" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">-0.860344</data>
+<data key="key_bootScore">0.420000</data>
+</edge>
+<edge id="e275" source="m__hmdb01149_t0" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">0.097489</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e276" source="g__phosphoglycerate kinase_tn" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">0.027914</data>
+<data key="key_bootScore">0.410000</data>
+</edge>
+<edge id="e277" source="g__pyruvate carboxylase_tn" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">0.106169</data>
+<data key="key_bootScore">0.420000</data>
+</edge>
+<edge id="e278" source="g__thymidylate synthase_tn" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">0.930652</data>
+<data key="key_bootScore">0.600000</data>
+</edge>
+<edge id="e279" source="m__hmdb00030_tn" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">-0.002358</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e280" source="m__hmdb00089_tn" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">0.005448</data>
+<data key="key_bootScore">0.210000</data>
+</edge>
+<edge id="e281" source="m__hmdb00630_tn" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">0.920454</data>
+<data key="key_bootScore">0.210000</data>
+</edge>
+<edge id="e282" source="m__hmdb01149_tn" target="g__ribulose-phosphate 3-epimerase_tn">
+<data key="key_weight">-0.114500</data>
+<data key="key_bootScore">0.350000</data>
+</edge>
+<edge id="e283" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_t0" target="g__rna helicase_tn">
+<data key="key_weight">11.662928</data>
+<data key="key_bootScore">0.630000</data>
+</edge>
+<edge id="e284" source="g__fructose-bisphosphate aldolase_t0" target="g__rna helicase_tn">
+<data key="key_weight">-0.137985</data>
+<data key="key_bootScore">0.500000</data>
+</edge>
+<edge id="e285" source="g__l-serine ammonia-lyase_t0" target="g__rna helicase_tn">
+<data key="key_weight">2.282180</data>
+<data key="key_bootScore">0.600000</data>
+</edge>
+<edge id="e286" source="g__rna helicase_t0" target="g__rna helicase_tn">
+<data key="key_weight">0.957677</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e287" source="g__transaldolase_t0" target="g__rna helicase_tn">
+<data key="key_weight">1.106265</data>
+<data key="key_bootScore">0.350000</data>
+</edge>
+<edge id="e288" source="g__triose-phosphate isomerase_t0" target="g__rna helicase_tn">
+<data key="key_weight">0.023304</data>
+<data key="key_bootScore">0.200000</data>
+</edge>
+<edge id="e289" source="m__hmdb00020_t0" target="g__rna helicase_tn">
+<data key="key_weight">-10.020470</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e290" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn" target="g__rna helicase_tn">
+<data key="key_weight">-12.199167</data>
+<data key="key_bootScore">0.610000</data>
+</edge>
+<edge id="e291" source="g__endopeptidase clp_tn" target="g__rna helicase_tn">
+<data key="key_weight">-0.312623</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e292" source="g__l-serine ammonia-lyase_tn" target="g__rna helicase_tn">
+<data key="key_weight">-2.625388</data>
+<data key="key_bootScore">0.660000</data>
+</edge>
+<edge id="e293" source="g__transaldolase_tn" target="g__rna helicase_tn">
+<data key="key_weight">-0.993913</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e294" source="g__triose-phosphate isomerase_tn" target="g__rna helicase_tn">
+<data key="key_weight">-0.067443</data>
+<data key="key_bootScore">0.180000</data>
+</edge>
+<edge id="e295" source="m__hmdb00296_tn" target="g__rna helicase_tn">
+<data key="key_weight">-2.375071</data>
+<data key="key_bootScore">0.270000</data>
+</edge>
+<edge id="e296" source="g__beta-lactamase_t0" target="g__shikimate kinase_tn">
+<data key="key_weight">-0.059223</data>
+<data key="key_bootScore">0.200000</data>
+</edge>
+<edge id="e297" source="g__methionyl aminopeptidase_t0" target="g__shikimate kinase_tn">
+<data key="key_weight">0.004288</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e298" source="g__phosphopyruvate hydratase_t0" target="g__shikimate kinase_tn">
+<data key="key_weight">0.008340</data>
+<data key="key_bootScore">0.280000</data>
+</edge>
+<edge id="e299" source="g__shikimate kinase_t0" target="g__shikimate kinase_tn">
+<data key="key_weight">0.894580</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e300" source="m__hmdb00195_t0" target="g__shikimate kinase_tn">
+<data key="key_weight">-3.211812</data>
+<data key="key_bootScore">0.380000</data>
+</edge>
+<edge id="e301" source="m__hmdb00239_t0" target="g__shikimate kinase_tn">
+<data key="key_weight">0.009012</data>
+<data key="key_bootScore">0.380000</data>
+</edge>
+<edge id="e302" source="m__hmdb02322_t0" target="g__shikimate kinase_tn">
+<data key="key_weight">-0.008287</data>
+<data key="key_bootScore">0.710000</data>
+</edge>
+<edge id="e303" source="g__acetyl-coa c-acetyltransferase_tn" target="g__shikimate kinase_tn">
+<data key="key_weight">-0.038837</data>
+<data key="key_bootScore">0.480000</data>
+</edge>
+<edge id="e304" source="g__beta-lactamase_tn" target="g__shikimate kinase_tn">
+<data key="key_weight">0.050425</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e305" source="g__glucose-1-phosphate adenylyltransferase_tn" target="g__shikimate kinase_tn">
+<data key="key_weight">0.024864</data>
+<data key="key_bootScore">0.420000</data>
+</edge>
+<edge id="e306" source="g__glutamate dehydrogenase_tn" target="g__shikimate kinase_tn">
+<data key="key_weight">0.028182</data>
+<data key="key_bootScore">0.910000</data>
+</edge>
+<edge id="e307" source="g__phosphopyruvate hydratase_tn" target="g__shikimate kinase_tn">
+<data key="key_weight">0.017796</data>
+<data key="key_bootScore">0.720000</data>
+</edge>
+<edge id="e308" source="g__5-formyltetrahydrofolate cyclo-ligase_t0" target="g__superoxide dismutase_tn">
+<data key="key_weight">1.141630</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e309" source="g__phosphopyruvate hydratase_t0" target="g__superoxide dismutase_tn">
+<data key="key_weight">-1.640957</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e310" source="g__shikimate kinase_t0" target="g__superoxide dismutase_tn">
+<data key="key_weight">-0.266440</data>
+<data key="key_bootScore">0.730000</data>
+</edge>
+<edge id="e311" source="g__superoxide dismutase_t0" target="g__superoxide dismutase_tn">
+<data key="key_weight">0.962485</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e312" source="m__hmdb01257_t0" target="g__superoxide dismutase_tn">
+<data key="key_weight">0.004412</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e313" source="g__phosphopyruvate hydratase_tn" target="g__superoxide dismutase_tn">
+<data key="key_weight">1.763703</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e314" source="g__shikimate kinase_tn" target="g__superoxide dismutase_tn">
+<data key="key_weight">-0.104193</data>
+<data key="key_bootScore">0.270000</data>
+</edge>
+<edge id="e315" source="m__hmdb01257_tn" target="g__superoxide dismutase_tn">
+<data key="key_weight">0.025131</data>
+<data key="key_bootScore">0.840000</data>
+</edge>
+<edge id="e316" source="g__aspartate ammonia-lyase_t0" target="g__thymidylate synthase_tn">
+<data key="key_weight">-0.000478</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e317" source="g__l-serine ammonia-lyase_t0" target="g__thymidylate synthase_tn">
+<data key="key_weight">0.001669</data>
+<data key="key_bootScore">0.150000</data>
+</edge>
+<edge id="e318" source="g__methionyl aminopeptidase_t0" target="g__thymidylate synthase_tn">
+<data key="key_weight">0.002184</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e319" source="g__peroxiredoxin_t0" target="g__thymidylate synthase_tn">
+<data key="key_weight">0.006247</data>
+<data key="key_bootScore">0.260000</data>
+</edge>
+<edge id="e320" source="g__thymidylate synthase_t0" target="g__thymidylate synthase_tn">
+<data key="key_weight">0.984262</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e321" source="g__triose-phosphate isomerase_t0" target="g__thymidylate synthase_tn">
+<data key="key_weight">0.002242</data>
+<data key="key_bootScore">0.370000</data>
+</edge>
+<edge id="e322" source="m__hmdb00030_t0" target="g__thymidylate synthase_tn">
+<data key="key_weight">0.002697</data>
+<data key="key_bootScore">0.520000</data>
+</edge>
+<edge id="e323" source="m__hmdb00097_t0" target="g__thymidylate synthase_tn">
+<data key="key_weight">0.114505</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e324" source="m__hmdb00289_t0" target="g__thymidylate synthase_tn">
+<data key="key_weight">0.000825</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e325" source="g__dihydrolipoyl dehydrogenase_tn" target="g__thymidylate synthase_tn">
+<data key="key_weight">0.012696</data>
+<data key="key_bootScore">0.440000</data>
+</edge>
+<edge id="e326" source="g__peroxiredoxin_tn" target="g__thymidylate synthase_tn">
+<data key="key_weight">-0.009755</data>
+<data key="key_bootScore">0.290000</data>
+</edge>
+<edge id="e327" source="m__hmdb00030_tn" target="g__thymidylate synthase_tn">
+<data key="key_weight">0.000712</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e328" source="m__hmdb00289_tn" target="g__thymidylate synthase_tn">
+<data key="key_weight">0.004465</data>
+<data key="key_bootScore">0.790000</data>
+</edge>
+<edge id="e329" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="g__transaldolase_tn">
+<data key="key_weight">-0.019561</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e330" source="g__beta-lactamase_t0" target="g__transaldolase_tn">
+<data key="key_weight">-0.002070</data>
+<data key="key_bootScore">0.390000</data>
+</edge>
+<edge id="e331" source="g__dihydrolipoyl dehydrogenase_t0" target="g__transaldolase_tn">
+<data key="key_weight">0.142567</data>
+<data key="key_bootScore">0.810000</data>
+</edge>
+<edge id="e332" source="g__fructose-bisphosphate aldolase_t0" target="g__transaldolase_tn">
+<data key="key_weight">-0.011362</data>
+<data key="key_bootScore">0.630000</data>
+</edge>
+<edge id="e333" source="g__glucose-1-phosphate adenylyltransferase_t0" target="g__transaldolase_tn">
+<data key="key_weight">0.020552</data>
+<data key="key_bootScore">0.740000</data>
+</edge>
+<edge id="e334" source="g__peptidylprolyl isomerase_t0" target="g__transaldolase_tn">
+<data key="key_weight">-0.002611</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e335" source="g__rna helicase_t0" target="g__transaldolase_tn">
+<data key="key_weight">0.001078</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e336" source="g__transaldolase_t0" target="g__transaldolase_tn">
+<data key="key_weight">0.984994</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e337" source="m__hmdb00020_t0" target="g__transaldolase_tn">
+<data key="key_weight">-0.552715</data>
+<data key="key_bootScore">0.370000</data>
+</edge>
+<edge id="e338" source="m__hmdb00195_t0" target="g__transaldolase_tn">
+<data key="key_weight">-0.530475</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e339" source="m__hmdb00251_t0" target="g__transaldolase_tn">
+<data key="key_weight">0.104279</data>
+<data key="key_bootScore">0.200000</data>
+</edge>
+<edge id="e340" source="g__rna helicase_tn" target="g__transaldolase_tn">
+<data key="key_weight">-0.001756</data>
+<data key="key_bootScore">0.210000</data>
+</edge>
+<edge id="e341" source="m__hmdb02322_tn" target="g__transaldolase_tn">
+<data key="key_weight">-0.001988</data>
+<data key="key_bootScore">0.410000</data>
+</edge>
+<edge id="e342" source="g__glutamate decarboxylase_t0" target="g__triose-phosphate isomerase_tn">
+<data key="key_weight">-0.270547</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e343" source="g__l-serine ammonia-lyase_t0" target="g__triose-phosphate isomerase_tn">
+<data key="key_weight">-0.107094</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e344" source="g__triose-phosphate isomerase_t0" target="g__triose-phosphate isomerase_tn">
+<data key="key_weight">0.951352</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e345" source="m__hmdb00289_t0" target="g__triose-phosphate isomerase_tn">
+<data key="key_weight">-0.005653</data>
+<data key="key_bootScore">0.340000</data>
+</edge>
+<edge id="e346" source="g__glutamate decarboxylase_tn" target="g__triose-phosphate isomerase_tn">
+<data key="key_weight">0.308889</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e347" source="g__thymidylate synthase_tn" target="g__triose-phosphate isomerase_tn">
+<data key="key_weight">-0.029169</data>
+<data key="key_bootScore">0.460000</data>
+</edge>
+<edge id="e348" source="m__hmdb00020_tn" target="g__triose-phosphate isomerase_tn">
+<data key="key_weight">1.166228</data>
+<data key="key_bootScore">0.620000</data>
+</edge>
+<edge id="e349" source="m__hmdb00239_tn" target="g__triose-phosphate isomerase_tn">
+<data key="key_weight">0.001051</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e350" source="m__hmdb01149_tn" target="g__triose-phosphate isomerase_tn">
+<data key="key_weight">0.010611</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e351" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="g__uridine kinase_tn">
+<data key="key_weight">0.011272</data>
+<data key="key_bootScore">0.460000</data>
+</edge>
+<edge id="e352" source="g__aldose 1-epimerase_t0" target="g__uridine kinase_tn">
+<data key="key_weight">-0.004834</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e353" source="g__glutamate dehydrogenase_t0" target="g__uridine kinase_tn">
+<data key="key_weight">-0.101295</data>
+<data key="key_bootScore">0.610000</data>
+</edge>
+<edge id="e354" source="g__peroxiredoxin_t0" target="g__uridine kinase_tn">
+<data key="key_weight">0.012895</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e355" source="g__thymidylate synthase_t0" target="g__uridine kinase_tn">
+<data key="key_weight">-0.287843</data>
+<data key="key_bootScore">0.550000</data>
+</edge>
+<edge id="e356" source="g__uridine kinase_t0" target="g__uridine kinase_tn">
+<data key="key_weight">0.948103</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e357" source="m__hmdb00030_t0" target="g__uridine kinase_tn">
+<data key="key_weight">-0.002957</data>
+<data key="key_bootScore">0.300000</data>
+</edge>
+<edge id="e358" source="m__hmdb01257_t0" target="g__uridine kinase_tn">
+<data key="key_weight">0.000487</data>
+<data key="key_bootScore">0.270000</data>
+</edge>
+<edge id="e359" source="g__glutamate decarboxylase_tn" target="g__uridine kinase_tn">
+<data key="key_weight">0.001854</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e360" source="g__glutamate dehydrogenase_tn" target="g__uridine kinase_tn">
+<data key="key_weight">0.106129</data>
+<data key="key_bootScore">0.610000</data>
+</edge>
+<edge id="e361" source="g__peroxiredoxin_tn" target="g__uridine kinase_tn">
+<data key="key_weight">-0.022301</data>
+<data key="key_bootScore">0.380000</data>
+</edge>
+<edge id="e362" source="g__thymidylate synthase_tn" target="g__uridine kinase_tn">
+<data key="key_weight">0.289609</data>
+<data key="key_bootScore">0.280000</data>
+</edge>
+<edge id="e363" source="m__hmdb00089_tn" target="g__uridine kinase_tn">
+<data key="key_weight">0.020758</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e364" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="m__hmdb00014_tn">
+<data key="key_weight">0.009308</data>
+<data key="key_bootScore">0.940000</data>
+</edge>
+<edge id="e365" source="g__aldose 1-epimerase_t0" target="m__hmdb00014_tn">
+<data key="key_weight">0.002990</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e366" source="g__l-serine ammonia-lyase_t0" target="m__hmdb00014_tn">
+<data key="key_weight">0.009944</data>
+<data key="key_bootScore">0.970000</data>
+</edge>
+<edge id="e367" source="g__uridine kinase_t0" target="m__hmdb00014_tn">
+<data key="key_weight">-0.000276</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e368" source="m__hmdb00014_t0" target="m__hmdb00014_tn">
+<data key="key_weight">0.991432</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e369" source="m__hmdb00043_t0" target="m__hmdb00014_tn">
+<data key="key_weight">0.235113</data>
+<data key="key_bootScore">0.810000</data>
+</edge>
+<edge id="e370" source="g__uridine kinase_tn" target="m__hmdb00014_tn">
+<data key="key_weight">-0.032689</data>
+<data key="key_bootScore">0.880000</data>
+</edge>
+<edge id="e371" source="m__hmdb00043_tn" target="m__hmdb00014_tn">
+<data key="key_weight">-0.253173</data>
+<data key="key_bootScore">0.870000</data>
+</edge>
+<edge id="e372" source="g__3-hydroxybutyryl-coa dehydrogenase_t0" target="m__hmdb00020_tn">
+<data key="key_weight">-0.000372</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e373" source="g__acetyl-coa c-acetyltransferase_t0" target="m__hmdb00020_tn">
+<data key="key_weight">0.001378</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e374" source="g__peroxiredoxin_t0" target="m__hmdb00020_tn">
+<data key="key_weight">-0.000210</data>
+<data key="key_bootScore">0.280000</data>
+</edge>
+<edge id="e375" source="m__hmdb00020_t0" target="m__hmdb00020_tn">
+<data key="key_weight">1.070709</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e376" source="m__hmdb01149_t0" target="m__hmdb00020_tn">
+<data key="key_weight">-0.009826</data>
+<data key="key_bootScore">0.680000</data>
+</edge>
+<edge id="e377" source="g__3-hydroxybutyryl-coa dehydrogenase_tn" target="m__hmdb00020_tn">
+<data key="key_weight">-0.001027</data>
+<data key="key_bootScore">0.660000</data>
+</edge>
+<edge id="e378" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn" target="m__hmdb00020_tn">
+<data key="key_weight">-0.000984</data>
+<data key="key_bootScore">0.990000</data>
+</edge>
+<edge id="e379" source="m__hmdb00089_tn" target="m__hmdb00020_tn">
+<data key="key_weight">0.000108</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e380" source="m__hmdb01149_tn" target="m__hmdb00020_tn">
+<data key="key_weight">0.009176</data>
+<data key="key_bootScore">0.680000</data>
+</edge>
+<edge id="e381" source="g__aldose 1-epimerase_t0" target="m__hmdb00030_tn">
+<data key="key_weight">-0.383362</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e382" source="g__methionyl aminopeptidase_t0" target="m__hmdb00030_tn">
+<data key="key_weight">0.190424</data>
+<data key="key_bootScore">0.960000</data>
+</edge>
+<edge id="e383" source="g__uridine kinase_t0" target="m__hmdb00030_tn">
+<data key="key_weight">0.067885</data>
+<data key="key_bootScore">0.410000</data>
+</edge>
+<edge id="e384" source="m__hmdb00014_t0" target="m__hmdb00030_tn">
+<data key="key_weight">1.157567</data>
+<data key="key_bootScore">0.400000</data>
+</edge>
+<edge id="e385" source="m__hmdb00020_t0" target="m__hmdb00030_tn">
+<data key="key_weight">-1.382288</data>
+<data key="key_bootScore">0.310000</data>
+</edge>
+<edge id="e386" source="m__hmdb00030_t0" target="m__hmdb00030_tn">
+<data key="key_weight">0.894730</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e387" source="g__phosphoglycerate kinase_tn" target="m__hmdb00030_tn">
+<data key="key_weight">-0.074281</data>
+<data key="key_bootScore">0.460000</data>
+</edge>
+<edge id="e388" source="g__phosphopyruvate hydratase_tn" target="m__hmdb00030_tn">
+<data key="key_weight">-0.003905</data>
+<data key="key_bootScore">0.120000</data>
+</edge>
+<edge id="e389" source="m__hmdb00014_tn" target="m__hmdb00030_tn">
+<data key="key_weight">-1.399243</data>
+<data key="key_bootScore">0.550000</data>
+</edge>
+<edge id="e390" source="m__hmdb00020_tn" target="m__hmdb00030_tn">
+<data key="key_weight">-0.411588</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e391" source="m__hmdb02322_tn" target="m__hmdb00030_tn">
+<data key="key_weight">-0.013623</data>
+<data key="key_bootScore">0.560000</data>
+</edge>
+<edge id="e392" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="m__hmdb00043_tn">
+<data key="key_weight">-0.002881</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e393" source="g__glutamate dehydrogenase_t0" target="m__hmdb00043_tn">
+<data key="key_weight">0.000807</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e394" source="g__phosphatidate cytidylyltransferase_t0" target="m__hmdb00043_tn">
+<data key="key_weight">0.009213</data>
+<data key="key_bootScore">0.660000</data>
+</edge>
+<edge id="e395" source="g__phosphopyruvate hydratase_t0" target="m__hmdb00043_tn">
+<data key="key_weight">-0.001868</data>
+<data key="key_bootScore">0.700000</data>
+</edge>
+<edge id="e396" source="m__hmdb00014_t0" target="m__hmdb00043_tn">
+<data key="key_weight">0.044480</data>
+<data key="key_bootScore">0.870000</data>
+</edge>
+<edge id="e397" source="m__hmdb00043_t0" target="m__hmdb00043_tn">
+<data key="key_weight">1.057874</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e398" source="m__hmdb00209_t0" target="m__hmdb00043_tn">
+<data key="key_weight">3.688700</data>
+<data key="key_bootScore">0.320000</data>
+</edge>
+<edge id="e399" source="m__hmdb00289_t0" target="m__hmdb00043_tn">
+<data key="key_weight">-0.001117</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e400" source="m__hmdb01257_t0" target="m__hmdb00043_tn">
+<data key="key_weight">-0.000745</data>
+<data key="key_bootScore">0.750000</data>
+</edge>
+<edge id="e401" source="m__hmdb00209_tn" target="m__hmdb00043_tn">
+<data key="key_weight">-3.537751</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e402" source="m__hmdb00289_tn" target="m__hmdb00043_tn">
+<data key="key_weight">-0.004393</data>
+<data key="key_bootScore">0.580000</data>
+</edge>
+<edge id="e403" source="g__glutamate dehydrogenase_t0" target="m__hmdb00056_tn">
+<data key="key_weight">-0.005319</data>
+<data key="key_bootScore">0.320000</data>
+</edge>
+<edge id="e404" source="g__superoxide dismutase_t0" target="m__hmdb00056_tn">
+<data key="key_weight">0.002369</data>
+<data key="key_bootScore">0.680000</data>
+</edge>
+<edge id="e405" source="m__hmdb00056_t0" target="m__hmdb00056_tn">
+<data key="key_weight">1.139579</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e406" source="m__hmdb00289_t0" target="m__hmdb00056_tn">
+<data key="key_weight">0.021005</data>
+<data key="key_bootScore">0.890000</data>
+</edge>
+<edge id="e407" source="m__hmdb00619_t0" target="m__hmdb00056_tn">
+<data key="key_weight">-0.956139</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e408" source="g__transaldolase_tn" target="m__hmdb00056_tn">
+<data key="key_weight">0.074194</data>
+<data key="key_bootScore">0.960000</data>
+</edge>
+<edge id="e409" source="m__hmdb00619_tn" target="m__hmdb00056_tn">
+<data key="key_weight">0.881163</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e410" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="m__hmdb00089_tn">
+<data key="key_weight">0.052764</data>
+<data key="key_bootScore">0.870000</data>
+</edge>
+<edge id="e411" source="g__aldose 1-epimerase_t0" target="m__hmdb00089_tn">
+<data key="key_weight">0.033442</data>
+<data key="key_bootScore">0.360000</data>
+</edge>
+<edge id="e412" source="g__aspartate ammonia-lyase_t0" target="m__hmdb00089_tn">
+<data key="key_weight">0.148443</data>
+<data key="key_bootScore">0.560000</data>
+</edge>
+<edge id="e413" source="g__dephospho-coa kinase_t0" target="m__hmdb00089_tn">
+<data key="key_weight">-0.116594</data>
+<data key="key_bootScore">0.990000</data>
+</edge>
+<edge id="e414" source="g__fructose-bisphosphate aldolase_t0" target="m__hmdb00089_tn">
+<data key="key_weight">0.029441</data>
+<data key="key_bootScore">0.820000</data>
+</edge>
+<edge id="e415" source="m__hmdb00089_t0" target="m__hmdb00089_tn">
+<data key="key_weight">1.109975</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e416" source="m__hmdb00630_t0" target="m__hmdb00089_tn">
+<data key="key_weight">-8.204001</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e417" source="g__aspartate ammonia-lyase_tn" target="m__hmdb00089_tn">
+<data key="key_weight">-0.165443</data>
+<data key="key_bootScore">0.960000</data>
+</edge>
+<edge id="e418" source="g__dna-directed rna polymerase_t0" target="m__hmdb00097_tn">
+<data key="key_weight">0.000797</data>
+<data key="key_bootScore">0.150000</data>
+</edge>
+<edge id="e419" source="g__glucose-1-phosphate adenylyltransferase_t0" target="m__hmdb00097_tn">
+<data key="key_weight">-0.002587</data>
+<data key="key_bootScore">0.370000</data>
+</edge>
+<edge id="e420" source="g__histidine kinase_t0" target="m__hmdb00097_tn">
+<data key="key_weight">-0.003060</data>
+<data key="key_bootScore">0.550000</data>
+</edge>
+<edge id="e421" source="m__hmdb00097_t0" target="m__hmdb00097_tn">
+<data key="key_weight">0.987088</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e422" source="m__hmdb00764_t0" target="m__hmdb00097_tn">
+<data key="key_weight">-0.170655</data>
+<data key="key_bootScore">0.440000</data>
+</edge>
+<edge id="e423" source="m__hmdb02322_t0" target="m__hmdb00097_tn">
+<data key="key_weight">-0.000507</data>
+<data key="key_bootScore">0.460000</data>
+</edge>
+<edge id="e424" source="g__3-hydroxybutyryl-coa dehydrogenase_tn" target="m__hmdb00097_tn">
+<data key="key_weight">-0.004064</data>
+<data key="key_bootScore">0.370000</data>
+</edge>
+<edge id="e425" source="g__dna-directed rna polymerase_tn" target="m__hmdb00097_tn">
+<data key="key_weight">0.001961</data>
+<data key="key_bootScore">0.430000</data>
+</edge>
+<edge id="e426" source="g__glucose-1-phosphate adenylyltransferase_tn" target="m__hmdb00097_tn">
+<data key="key_weight">-0.001486</data>
+<data key="key_bootScore">0.260000</data>
+</edge>
+<edge id="e427" source="g__histidine kinase_tn" target="m__hmdb00097_tn">
+<data key="key_weight">0.002605</data>
+<data key="key_bootScore">0.290000</data>
+</edge>
+<edge id="e428" source="g__methionyl aminopeptidase_tn" target="m__hmdb00097_tn">
+<data key="key_weight">0.001874</data>
+<data key="key_bootScore">0.400000</data>
+</edge>
+<edge id="e429" source="g__thymidylate synthase_tn" target="m__hmdb00097_tn">
+<data key="key_weight">-0.005153</data>
+<data key="key_bootScore">0.420000</data>
+</edge>
+<edge id="e430" source="m__hmdb00195_tn" target="m__hmdb00097_tn">
+<data key="key_weight">0.351583</data>
+<data key="key_bootScore">0.550000</data>
+</edge>
+<edge id="e431" source="g__3-hydroxybutyryl-coa dehydrogenase_t0" target="m__hmdb00195_tn">
+<data key="key_weight">-0.000548</data>
+<data key="key_bootScore">0.920000</data>
+</edge>
+<edge id="e432" source="g__endopeptidase clp_t0" target="m__hmdb00195_tn">
+<data key="key_weight">0.000117</data>
+<data key="key_bootScore">0.150000</data>
+</edge>
+<edge id="e433" source="g__triose-phosphate isomerase_t0" target="m__hmdb00195_tn">
+<data key="key_weight">0.000190</data>
+<data key="key_bootScore">0.870000</data>
+</edge>
+<edge id="e434" source="m__hmdb00097_t0" target="m__hmdb00195_tn">
+<data key="key_weight">-0.000190</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e435" source="m__hmdb00195_t0" target="m__hmdb00195_tn">
+<data key="key_weight">0.958009</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e436" source="m__hmdb00239_t0" target="m__hmdb00195_tn">
+<data key="key_weight">-0.000768</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e437" source="m__hmdb00239_tn" target="m__hmdb00195_tn">
+<data key="key_weight">0.000913</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e438" source="m__hmdb02322_tn" target="m__hmdb00195_tn">
+<data key="key_weight">-0.000030</data>
+<data key="key_bootScore">0.560000</data>
+</edge>
+<edge id="e439" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="m__hmdb00209_tn">
+<data key="key_weight">-0.000090</data>
+<data key="key_bootScore">0.410000</data>
+</edge>
+<edge id="e440" source="g__aldose 1-epimerase_t0" target="m__hmdb00209_tn">
+<data key="key_weight">-0.000437</data>
+<data key="key_bootScore">0.410000</data>
+</edge>
+<edge id="e441" source="g__beta-lactamase_t0" target="m__hmdb00209_tn">
+<data key="key_weight">0.000182</data>
+<data key="key_bootScore">0.670000</data>
+</edge>
+<edge id="e442" source="g__dna-directed rna polymerase_t0" target="m__hmdb00209_tn">
+<data key="key_weight">0.000059</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e443" source="g__glucose-1-phosphate adenylyltransferase_t0" target="m__hmdb00209_tn">
+<data key="key_weight">0.000065</data>
+<data key="key_bootScore">0.220000</data>
+</edge>
+<edge id="e444" source="g__methionyl aminopeptidase_t0" target="m__hmdb00209_tn">
+<data key="key_weight">0.000031</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e445" source="g__peroxiredoxin_t0" target="m__hmdb00209_tn">
+<data key="key_weight">0.000368</data>
+<data key="key_bootScore">0.210000</data>
+</edge>
+<edge id="e446" source="m__hmdb00097_t0" target="m__hmdb00209_tn">
+<data key="key_weight">0.007423</data>
+<data key="key_bootScore">0.300000</data>
+</edge>
+<edge id="e447" source="m__hmdb00195_t0" target="m__hmdb00209_tn">
+<data key="key_weight">-0.040612</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e448" source="m__hmdb00209_t0" target="m__hmdb00209_tn">
+<data key="key_weight">0.975271</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e449" source="m__hmdb00764_t0" target="m__hmdb00209_tn">
+<data key="key_weight">0.003830</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e450" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_tn" target="m__hmdb00209_tn">
+<data key="key_weight">-0.000153</data>
+<data key="key_bootScore">0.470000</data>
+</edge>
+<edge id="e451" source="g__dna-directed rna polymerase_tn" target="m__hmdb00209_tn">
+<data key="key_weight">-0.000122</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e452" source="g__methionyl aminopeptidase_tn" target="m__hmdb00209_tn">
+<data key="key_weight">0.000031</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e453" source="g__peroxiredoxin_tn" target="m__hmdb00209_tn">
+<data key="key_weight">-0.000395</data>
+<data key="key_bootScore">0.210000</data>
+</edge>
+<edge id="e454" source="m__hmdb00097_tn" target="m__hmdb00209_tn">
+<data key="key_weight">-0.007919</data>
+<data key="key_bootScore">0.270000</data>
+</edge>
+<edge id="e455" source="m__hmdb00195_tn" target="m__hmdb00209_tn">
+<data key="key_weight">0.037696</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e456" source="g__dna helicase_t0" target="m__hmdb00239_tn">
+<data key="key_weight">0.073757</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e457" source="g__methionyl aminopeptidase_t0" target="m__hmdb00239_tn">
+<data key="key_weight">0.074539</data>
+<data key="key_bootScore">0.780000</data>
+</edge>
+<edge id="e458" source="g__phosphoglycerate kinase_t0" target="m__hmdb00239_tn">
+<data key="key_weight">-0.220823</data>
+<data key="key_bootScore">0.990000</data>
+</edge>
+<edge id="e459" source="m__hmdb00020_t0" target="m__hmdb00239_tn">
+<data key="key_weight">-4.729436</data>
+<data key="key_bootScore">0.870000</data>
+</edge>
+<edge id="e460" source="m__hmdb00195_t0" target="m__hmdb00239_tn">
+<data key="key_weight">-7.397495</data>
+<data key="key_bootScore">0.720000</data>
+</edge>
+<edge id="e461" source="m__hmdb00239_t0" target="m__hmdb00239_tn">
+<data key="key_weight">0.991696</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e462" source="g__methionyl aminopeptidase_tn" target="m__hmdb00239_tn">
+<data key="key_weight">0.011744</data>
+<data key="key_bootScore">0.120000</data>
+</edge>
+<edge id="e463" source="m__hmdb00020_tn" target="m__hmdb00239_tn">
+<data key="key_weight">-0.630532</data>
+<data key="key_bootScore">0.120000</data>
+</edge>
+<edge id="e464" source="m__hmdb02322_tn" target="m__hmdb00239_tn">
+<data key="key_weight">-0.002999</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e465" source="g__dna-directed rna polymerase_t0" target="m__hmdb00251_tn">
+<data key="key_weight">-0.000919</data>
+<data key="key_bootScore">0.980000</data>
+</edge>
+<edge id="e466" source="g__endopeptidase clp_t0" target="m__hmdb00251_tn">
+<data key="key_weight">-0.060308</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e467" source="g__rna helicase_t0" target="m__hmdb00251_tn">
+<data key="key_weight">-0.001203</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e468" source="m__hmdb00251_t0" target="m__hmdb00251_tn">
+<data key="key_weight">0.956324</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e469" source="g__endopeptidase clp_tn" target="m__hmdb00251_tn">
+<data key="key_weight">0.068889</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e470" source="g__rna helicase_tn" target="m__hmdb00251_tn">
+<data key="key_weight">0.001543</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e471" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="m__hmdb00289_tn">
+<data key="key_weight">0.028795</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e472" source="g__glucose-1-phosphate adenylyltransferase_t0" target="m__hmdb00289_tn">
+<data key="key_weight">-0.020561</data>
+<data key="key_bootScore">0.220000</data>
+</edge>
+<edge id="e473" source="g__glutamate dehydrogenase_t0" target="m__hmdb00289_tn">
+<data key="key_weight">-0.016253</data>
+<data key="key_bootScore">0.420000</data>
+</edge>
+<edge id="e474" source="g__phosphatidate cytidylyltransferase_t0" target="m__hmdb00289_tn">
+<data key="key_weight">-0.085890</data>
+<data key="key_bootScore">0.480000</data>
+</edge>
+<edge id="e475" source="g__pyruvate carboxylase_t0" target="m__hmdb00289_tn">
+<data key="key_weight">-0.012403</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e476" source="g__transaldolase_t0" target="m__hmdb00289_tn">
+<data key="key_weight">0.122868</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e477" source="g__uridine kinase_t0" target="m__hmdb00289_tn">
+<data key="key_weight">-0.056890</data>
+<data key="key_bootScore">0.280000</data>
+</edge>
+<edge id="e478" source="m__hmdb00056_t0" target="m__hmdb00289_tn">
+<data key="key_weight">-0.011042</data>
+<data key="key_bootScore">0.120000</data>
+</edge>
+<edge id="e479" source="m__hmdb00289_t0" target="m__hmdb00289_tn">
+<data key="key_weight">1.015417</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e480" source="m__hmdb00619_t0" target="m__hmdb00289_tn">
+<data key="key_weight">-0.612957</data>
+<data key="key_bootScore">0.530000</data>
+</edge>
+<edge id="e481" source="g__dihydrolipoyl dehydrogenase_tn" target="m__hmdb00289_tn">
+<data key="key_weight">-0.176608</data>
+<data key="key_bootScore">0.650000</data>
+</edge>
+<edge id="e482" source="g__transaldolase_tn" target="m__hmdb00289_tn">
+<data key="key_weight">-0.140624</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e483" source="m__hmdb00056_tn" target="m__hmdb00289_tn">
+<data key="key_weight">-0.048364</data>
+<data key="key_bootScore">0.500000</data>
+</edge>
+<edge id="e484" source="m__hmdb00089_tn" target="m__hmdb00289_tn">
+<data key="key_weight">0.028184</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e485" source="m__hmdb00619_tn" target="m__hmdb00289_tn">
+<data key="key_weight">0.704614</data>
+<data key="key_bootScore">0.480000</data>
+</edge>
+<edge id="e486" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_t0" target="m__hmdb00296_tn">
+<data key="key_weight">0.002152</data>
+<data key="key_bootScore">0.350000</data>
+</edge>
+<edge id="e487" source="g__phosphatidate cytidylyltransferase_t0" target="m__hmdb00296_tn">
+<data key="key_weight">-0.001724</data>
+<data key="key_bootScore">0.440000</data>
+</edge>
+<edge id="e488" source="m__hmdb00014_t0" target="m__hmdb00296_tn">
+<data key="key_weight">-0.005186</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e489" source="m__hmdb00056_t0" target="m__hmdb00296_tn">
+<data key="key_weight">-0.000256</data>
+<data key="key_bootScore">0.260000</data>
+</edge>
+<edge id="e490" source="m__hmdb00296_t0" target="m__hmdb00296_tn">
+<data key="key_weight">0.999779</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e491" source="m__hmdb00764_t0" target="m__hmdb00296_tn">
+<data key="key_weight">-0.201091</data>
+<data key="key_bootScore">0.930000</data>
+</edge>
+<edge id="e492" source="m__hmdb01257_t0" target="m__hmdb00296_tn">
+<data key="key_weight">-0.000021</data>
+<data key="key_bootScore">0.230000</data>
+</edge>
+<edge id="e493" source="g__endopeptidase clp_tn" target="m__hmdb00296_tn">
+<data key="key_weight">0.002493</data>
+<data key="key_bootScore">0.960000</data>
+</edge>
+<edge id="e494" source="g__glucose-1-phosphate adenylyltransferase_tn" target="m__hmdb00296_tn">
+<data key="key_weight">-0.000074</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e495" source="g__phosphatidate cytidylyltransferase_tn" target="m__hmdb00296_tn">
+<data key="key_weight">0.000957</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e496" source="m__hmdb00014_tn" target="m__hmdb00296_tn">
+<data key="key_weight">0.006739</data>
+<data key="key_bootScore">0.370000</data>
+</edge>
+<edge id="e497" source="m__hmdb00239_tn" target="m__hmdb00296_tn">
+<data key="key_weight">0.000084</data>
+<data key="key_bootScore">0.320000</data>
+</edge>
+<edge id="e498" source="m__hmdb00630_tn" target="m__hmdb00296_tn">
+<data key="key_weight">0.027896</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e499" source="m__hmdb00764_tn" target="m__hmdb00296_tn">
+<data key="key_weight">0.076866</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e500" source="g__3-hydroxybutyryl-coa dehydrogenase_t0" target="m__hmdb00619_tn">
+<data key="key_weight">-0.005423</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e501" source="g__dna-directed rna polymerase_t0" target="m__hmdb00619_tn">
+<data key="key_weight">0.001883</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e502" source="g__endopeptidase clp_t0" target="m__hmdb00619_tn">
+<data key="key_weight">-0.080919</data>
+<data key="key_bootScore">0.360000</data>
+</edge>
+<edge id="e503" source="g__peptidylprolyl isomerase_t0" target="m__hmdb00619_tn">
+<data key="key_weight">0.007815</data>
+<data key="key_bootScore">0.490000</data>
+</edge>
+<edge id="e504" source="m__hmdb00097_t0" target="m__hmdb00619_tn">
+<data key="key_weight">-0.350330</data>
+<data key="key_bootScore">0.120000</data>
+</edge>
+<edge id="e505" source="m__hmdb00289_t0" target="m__hmdb00619_tn">
+<data key="key_weight">-0.035861</data>
+<data key="key_bootScore">0.790000</data>
+</edge>
+<edge id="e506" source="m__hmdb00619_t0" target="m__hmdb00619_tn">
+<data key="key_weight">0.987325</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e507" source="m__hmdb01257_t0" target="m__hmdb00619_tn">
+<data key="key_weight">-0.001153</data>
+<data key="key_bootScore">0.540000</data>
+</edge>
+<edge id="e508" source="g__endopeptidase clp_tn" target="m__hmdb00619_tn">
+<data key="key_weight">0.119573</data>
+<data key="key_bootScore">0.560000</data>
+</edge>
+<edge id="e509" source="g__l-serine ammonia-lyase_tn" target="m__hmdb00619_tn">
+<data key="key_weight">0.003628</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e510" source="g__phosphoglycerate kinase_tn" target="m__hmdb00619_tn">
+<data key="key_weight">0.006942</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e511" source="m__hmdb00097_tn" target="m__hmdb00619_tn">
+<data key="key_weight">0.370226</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e512" source="m__hmdb00289_tn" target="m__hmdb00619_tn">
+<data key="key_weight">0.025696</data>
+<data key="key_bootScore">0.310000</data>
+</edge>
+<edge id="e513" source="g__dephospho-coa kinase_t0" target="m__hmdb00630_tn">
+<data key="key_weight">0.000102</data>
+<data key="key_bootScore">0.970000</data>
+</edge>
+<edge id="e514" source="g__l-serine ammonia-lyase_t0" target="m__hmdb00630_tn">
+<data key="key_weight">0.000060</data>
+<data key="key_bootScore">0.970000</data>
+</edge>
+<edge id="e515" source="m__hmdb00089_t0" target="m__hmdb00630_tn">
+<data key="key_weight">-0.008065</data>
+<data key="key_bootScore">0.970000</data>
+</edge>
+<edge id="e516" source="m__hmdb00630_t0" target="m__hmdb00630_tn">
+<data key="key_weight">1.019059</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e517" source="m__hmdb02322_t0" target="m__hmdb00630_tn">
+<data key="key_weight">-0.000002</data>
+<data key="key_bootScore">0.220000</data>
+</edge>
+<edge id="e518" source="m__hmdb00089_tn" target="m__hmdb00630_tn">
+<data key="key_weight">0.007856</data>
+<data key="key_bootScore">0.970000</data>
+</edge>
+<edge id="e519" source="m__hmdb02322_tn" target="m__hmdb00630_tn">
+<data key="key_weight">-0.000005</data>
+<data key="key_bootScore">0.640000</data>
+</edge>
+<edge id="e520" source="g__dephospho-coa kinase_t0" target="m__hmdb00764_tn">
+<data key="key_weight">-0.000035</data>
+<data key="key_bootScore">0.230000</data>
+</edge>
+<edge id="e521" source="g__thymidylate synthase_t0" target="m__hmdb00764_tn">
+<data key="key_weight">0.000118</data>
+<data key="key_bootScore">0.200000</data>
+</edge>
+<edge id="e522" source="m__hmdb00296_t0" target="m__hmdb00764_tn">
+<data key="key_weight">0.001046</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e523" source="m__hmdb00764_t0" target="m__hmdb00764_tn">
+<data key="key_weight">0.961303</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e524" source="m__hmdb01257_t0" target="m__hmdb00764_tn">
+<data key="key_weight">0.000008</data>
+<data key="key_bootScore">0.390000</data>
+</edge>
+<edge id="e525" source="g__aldose 1-epimerase_tn" target="m__hmdb00764_tn">
+<data key="key_weight">-0.000159</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e526" source="g__glutamate decarboxylase_tn" target="m__hmdb00764_tn">
+<data key="key_weight">0.000337</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e527" source="g__l-serine ammonia-lyase_tn" target="m__hmdb00764_tn">
+<data key="key_weight">0.000358</data>
+<data key="key_bootScore">0.930000</data>
+</edge>
+<edge id="e528" source="g__phosphoglycerate kinase_tn" target="m__hmdb00764_tn">
+<data key="key_weight">0.001387</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e529" source="m__hmdb00056_tn" target="m__hmdb00764_tn">
+<data key="key_weight">-0.000047</data>
+<data key="key_bootScore">0.230000</data>
+</edge>
+<edge id="e530" source="m__hmdb00296_tn" target="m__hmdb00764_tn">
+<data key="key_weight">0.003881</data>
+<data key="key_bootScore">0.490000</data>
+</edge>
+<edge id="e531" source="g__3-hydroxybutyryl-coa dehydrogenase_t0" target="m__hmdb01149_tn">
+<data key="key_weight">0.009746</data>
+<data key="key_bootScore">0.360000</data>
+</edge>
+<edge id="e532" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_t0" target="m__hmdb01149_tn">
+<data key="key_weight">-0.001190</data>
+<data key="key_bootScore">0.150000</data>
+</edge>
+<edge id="e533" source="g__aldose 1-epimerase_t0" target="m__hmdb01149_tn">
+<data key="key_weight">0.006781</data>
+<data key="key_bootScore">0.140000</data>
+</edge>
+<edge id="e534" source="g__aspartate ammonia-lyase_t0" target="m__hmdb01149_tn">
+<data key="key_weight">-0.000728</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e535" source="g__glucose-1-phosphate adenylyltransferase_t0" target="m__hmdb01149_tn">
+<data key="key_weight">0.003198</data>
+<data key="key_bootScore">0.990000</data>
+</edge>
+<edge id="e536" source="g__glutamate dehydrogenase_t0" target="m__hmdb01149_tn">
+<data key="key_weight">-0.001817</data>
+<data key="key_bootScore">0.270000</data>
+</edge>
+<edge id="e537" source="g__transaldolase_t0" target="m__hmdb01149_tn">
+<data key="key_weight">0.065388</data>
+<data key="key_bootScore">0.400000</data>
+</edge>
+<edge id="e538" source="m__hmdb00020_t0" target="m__hmdb01149_tn">
+<data key="key_weight">0.375177</data>
+<data key="key_bootScore">0.470000</data>
+</edge>
+<edge id="e539" source="m__hmdb00030_t0" target="m__hmdb01149_tn">
+<data key="key_weight">0.006882</data>
+<data key="key_bootScore">0.440000</data>
+</edge>
+<edge id="e540" source="m__hmdb00195_t0" target="m__hmdb01149_tn">
+<data key="key_weight">0.260135</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e541" source="m__hmdb00619_t0" target="m__hmdb01149_tn">
+<data key="key_weight">-0.007630</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e542" source="m__hmdb01149_t0" target="m__hmdb01149_tn">
+<data key="key_weight">0.996253</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e543" source="m__hmdb02322_t0" target="m__hmdb01149_tn">
+<data key="key_weight">-0.002189</data>
+<data key="key_bootScore">0.430000</data>
+</edge>
+<edge id="e544" source="g__glucose-1-phosphate adenylyltransferase_tn" target="m__hmdb01149_tn">
+<data key="key_weight">-0.014560</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e545" source="g__glutamate dehydrogenase_tn" target="m__hmdb01149_tn">
+<data key="key_weight">-0.001310</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e546" source="g__transaldolase_tn" target="m__hmdb01149_tn">
+<data key="key_weight">-0.055462</data>
+<data key="key_bootScore">0.210000</data>
+</edge>
+<edge id="e547" source="g__3-hydroxybutyryl-coa dehydrogenase_t0" target="m__hmdb01257_tn">
+<data key="key_weight">-0.447808</data>
+<data key="key_bootScore">0.490000</data>
+</edge>
+<edge id="e548" source="g__phosphatidate cytidylyltransferase_t0" target="m__hmdb01257_tn">
+<data key="key_weight">-0.354368</data>
+<data key="key_bootScore">0.370000</data>
+</edge>
+<edge id="e549" source="g__phosphopyruvate hydratase_t0" target="m__hmdb01257_tn">
+<data key="key_weight">0.152836</data>
+<data key="key_bootScore">0.450000</data>
+</edge>
+<edge id="e550" source="g__superoxide dismutase_t0" target="m__hmdb01257_tn">
+<data key="key_weight">-0.083735</data>
+<data key="key_bootScore">0.520000</data>
+</edge>
+<edge id="e551" source="g__triose-phosphate isomerase_t0" target="m__hmdb01257_tn">
+<data key="key_weight">0.041545</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e552" source="m__hmdb00014_t0" target="m__hmdb01257_tn">
+<data key="key_weight">-0.935939</data>
+<data key="key_bootScore">0.310000</data>
+</edge>
+<edge id="e553" source="m__hmdb00289_t0" target="m__hmdb01257_tn">
+<data key="key_weight">0.102184</data>
+<data key="key_bootScore">0.410000</data>
+</edge>
+<edge id="e554" source="m__hmdb01257_t0" target="m__hmdb01257_tn">
+<data key="key_weight">0.955983</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e555" source="g__phosphatidate cytidylyltransferase_tn" target="m__hmdb01257_tn">
+<data key="key_weight">-0.112914</data>
+<data key="key_bootScore">0.130000</data>
+</edge>
+<edge id="e556" source="g__uridine kinase_tn" target="m__hmdb01257_tn">
+<data key="key_weight">-0.822390</data>
+<data key="key_bootScore">0.500000</data>
+</edge>
+<edge id="e557" source="m__hmdb00020_tn" target="m__hmdb01257_tn">
+<data key="key_weight">-13.046698</data>
+<data key="key_bootScore">0.440000</data>
+</edge>
+<edge id="e558" source="m__hmdb00056_tn" target="m__hmdb01257_tn">
+<data key="key_weight">0.980848</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e559" source="m__hmdb00209_tn" target="m__hmdb01257_tn">
+<data key="key_weight">5.740530</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e560" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_t0" target="m__hmdb02322_tn">
+<data key="key_weight">0.567506</data>
+<data key="key_bootScore">0.580000</data>
+</edge>
+<edge id="e561" source="g__phosphoglycerate kinase_t0" target="m__hmdb02322_tn">
+<data key="key_weight">0.152368</data>
+<data key="key_bootScore">0.250000</data>
+</edge>
+<edge id="e562" source="g__transaldolase_t0" target="m__hmdb02322_tn">
+<data key="key_weight">0.074804</data>
+<data key="key_bootScore">0.180000</data>
+</edge>
+<edge id="e563" source="m__hmdb00043_t0" target="m__hmdb02322_tn">
+<data key="key_weight">-0.944449</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e564" source="m__hmdb00251_t0" target="m__hmdb02322_tn">
+<data key="key_weight">3.115161</data>
+<data key="key_bootScore">0.790000</data>
+</edge>
+<edge id="e565" source="m__hmdb00764_t0" target="m__hmdb02322_tn">
+<data key="key_weight">16.695041</data>
+<data key="key_bootScore">0.700000</data>
+</edge>
+<edge id="e566" source="m__hmdb01149_t0" target="m__hmdb02322_tn">
+<data key="key_weight">-3.880770</data>
+<data key="key_bootScore">0.820000</data>
+</edge>
+<edge id="e567" source="m__hmdb02322_t0" target="m__hmdb02322_tn">
+<data key="key_weight">0.974955</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e568" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_tn" target="m__hmdb02322_tn">
+<data key="key_weight">0.180306</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e569" source="g__phosphopyruvate hydratase_tn" target="m__hmdb02322_tn">
+<data key="key_weight">0.008160</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e570" source="m__hmdb00043_tn" target="m__hmdb02322_tn">
+<data key="key_weight">0.701821</data>
+<data key="key_bootScore">0.110000</data>
+</edge>
+<edge id="e571" source="m__hmdb01149_tn" target="m__hmdb02322_tn">
+<data key="key_weight">4.251727</data>
+<data key="key_bootScore">0.820000</data>
+</edge>
+</graph>
+</graphml>

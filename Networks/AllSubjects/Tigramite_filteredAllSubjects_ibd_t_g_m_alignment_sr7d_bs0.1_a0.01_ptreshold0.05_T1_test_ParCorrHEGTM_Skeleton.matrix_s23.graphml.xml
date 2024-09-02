@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="bootscore" attr.type="float" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="float" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Disease state_ti" />
+    <node id="Age_ti" />
+    <node id="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti" />
+    <node id="g__3-hydroxybutyryl-coa dehydrogenase_ti" />
+    <node id="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti" />
+    <node id="g__5-formyltetrahydrofolate cyclo-ligase_ti" />
+    <node id="g__acetyl-coa c-acetyltransferase_ti" />
+    <node id="g__aldose 1-epimerase_ti" />
+    <node id="g__aspartate ammonia-lyase_ti" />
+    <node id="g__beta-lactamase_ti" />
+    <node id="g__dephospho-coa kinase_ti" />
+    <node id="g__dihydrolipoyl dehydrogenase_ti" />
+    <node id="g__dna helicase_ti" />
+    <node id="g__dna-directed rna polymerase_ti" />
+    <node id="g__endopeptidase clp_ti" />
+    <node id="g__fructose-bisphosphate aldolase_ti" />
+    <node id="g__glucose-1-phosphate adenylyltransferase_ti" />
+    <node id="g__glutamate decarboxylase_ti" />
+    <node id="g__glutamate dehydrogenase_ti" />
+    <node id="g__histidine kinase_ti" />
+    <node id="g__l-serine ammonia-lyase_ti" />
+    <node id="g__methionyl aminopeptidase_ti" />
+    <node id="g__peptidylprolyl isomerase_ti" />
+    <node id="g__peroxiredoxin_ti" />
+    <node id="g__phosphatidate cytidylyltransferase_ti" />
+    <node id="g__phosphoglycerate kinase_ti" />
+    <node id="g__phosphopyruvate hydratase_ti" />
+    <node id="g__pyruvate carboxylase_ti" />
+    <node id="g__ribulose-phosphate 3-epimerase_ti" />
+    <node id="g__rna helicase_ti" />
+    <node id="g__shikimate kinase_ti" />
+    <node id="g__superoxide dismutase_ti" />
+    <node id="g__thymidylate synthase_ti" />
+    <node id="g__transaldolase_ti" />
+    <node id="g__triose-phosphate isomerase_ti" />
+    <node id="g__uridine kinase_ti" />
+    <node id="m__hmdb00014_ti" />
+    <node id="m__hmdb00020_ti" />
+    <node id="m__hmdb00030_ti" />
+    <node id="m__hmdb00043_ti" />
+    <node id="m__hmdb00056_ti" />
+    <node id="m__hmdb00089_ti" />
+    <node id="m__hmdb00097_ti" />
+    <node id="m__hmdb00195_ti" />
+    <node id="m__hmdb00209_ti" />
+    <node id="m__hmdb00239_ti" />
+    <node id="m__hmdb00251_ti" />
+    <node id="m__hmdb00289_ti" />
+    <node id="m__hmdb00296_ti" />
+    <node id="m__hmdb00619_ti" />
+    <node id="m__hmdb00630_ti" />
+    <node id="m__hmdb00764_ti" />
+    <node id="m__hmdb01149_ti" />
+    <node id="m__hmdb01257_ti" />
+    <node id="m__hmdb02322_ti" />
+    <node id="s__akkermansia_muciniphila_ti" />
+    <node id="s__alistipes_shahii_ti" />
+    <node id="s__bacteroides_caccae_ti" />
+    <node id="s__bacteroides_cellulosilyticus_ti" />
+    <node id="s__bacteroides_faecis_ti" />
+    <node id="s__bacteroides_finegoldii_ti" />
+    <node id="s__bacteroides_fragilis_ti" />
+    <node id="s__bacteroides_ovatus_ti" />
+    <node id="s__bacteroides_stercoris_ti" />
+    <node id="s__bacteroides_thetaiotaomicron_ti" />
+    <node id="s__bacteroides_uniformis_ti" />
+    <node id="s__bacteroides_xylanisolvens_ti" />
+    <node id="s__bifidobacterium_longum_ti" />
+    <node id="s__clostridium_bolteae_ti" />
+    <node id="s__clostridium_clostridioforme_ti" />
+    <node id="s__escherichia_coli_ti" />
+    <node id="s__eubacterium_rectale_ti" />
+    <node id="s__eubacterium_siraeum_ti" />
+    <node id="s__eubacterium_ventriosum_ti" />
+    <node id="s__faecalibacterium_prausnitzii_ti" />
+    <node id="s__haemophilus_parainfluenzae_ti" />
+    <node id="s__klebsiella_pneumoniae_ti" />
+    <node id="s__odoribacter_splanchnicus_ti" />
+    <node id="s__roseburia_intestinalis_ti" />
+    <node id="s__roseburia_inulinivorans_ti" />
+    <node id="s__ruminococcus_torques_ti" />
+    <node id="s__streptococcus_parasanguinis_ti" />
+    <node id="Disease state_ti+1" />
+    <node id="Age_ti+1" />
+    <node id="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" />
+    <node id="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" />
+    <node id="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" />
+    <node id="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" />
+    <node id="g__acetyl-coa c-acetyltransferase_ti+1" />
+    <node id="g__aldose 1-epimerase_ti+1" />
+    <node id="g__aspartate ammonia-lyase_ti+1" />
+    <node id="g__beta-lactamase_ti+1" />
+    <node id="g__dephospho-coa kinase_ti+1" />
+    <node id="g__dihydrolipoyl dehydrogenase_ti+1" />
+    <node id="g__dna helicase_ti+1" />
+    <node id="g__dna-directed rna polymerase_ti+1" />
+    <node id="g__endopeptidase clp_ti+1" />
+    <node id="g__fructose-bisphosphate aldolase_ti+1" />
+    <node id="g__glucose-1-phosphate adenylyltransferase_ti+1" />
+    <node id="g__glutamate decarboxylase_ti+1" />
+    <node id="g__glutamate dehydrogenase_ti+1" />
+    <node id="g__histidine kinase_ti+1" />
+    <node id="g__l-serine ammonia-lyase_ti+1" />
+    <node id="g__methionyl aminopeptidase_ti+1" />
+    <node id="g__peptidylprolyl isomerase_ti+1" />
+    <node id="g__peroxiredoxin_ti+1" />
+    <node id="g__phosphatidate cytidylyltransferase_ti+1" />
+    <node id="g__phosphoglycerate kinase_ti+1" />
+    <node id="g__phosphopyruvate hydratase_ti+1" />
+    <node id="g__pyruvate carboxylase_ti+1" />
+    <node id="g__ribulose-phosphate 3-epimerase_ti+1" />
+    <node id="g__rna helicase_ti+1" />
+    <node id="g__shikimate kinase_ti+1" />
+    <node id="g__superoxide dismutase_ti+1" />
+    <node id="g__thymidylate synthase_ti+1" />
+    <node id="g__transaldolase_ti+1" />
+    <node id="g__triose-phosphate isomerase_ti+1" />
+    <node id="g__uridine kinase_ti+1" />
+    <node id="m__hmdb00014_ti+1" />
+    <node id="m__hmdb00020_ti+1" />
+    <node id="m__hmdb00030_ti+1" />
+    <node id="m__hmdb00043_ti+1" />
+    <node id="m__hmdb00056_ti+1" />
+    <node id="m__hmdb00089_ti+1" />
+    <node id="m__hmdb00097_ti+1" />
+    <node id="m__hmdb00195_ti+1" />
+    <node id="m__hmdb00209_ti+1" />
+    <node id="m__hmdb00239_ti+1" />
+    <node id="m__hmdb00251_ti+1" />
+    <node id="m__hmdb00289_ti+1" />
+    <node id="m__hmdb00296_ti+1" />
+    <node id="m__hmdb00619_ti+1" />
+    <node id="m__hmdb00630_ti+1" />
+    <node id="m__hmdb00764_ti+1" />
+    <node id="m__hmdb01149_ti+1" />
+    <node id="m__hmdb01257_ti+1" />
+    <node id="m__hmdb02322_ti+1" />
+    <node id="s__akkermansia_muciniphila_ti+1" />
+    <node id="s__alistipes_shahii_ti+1" />
+    <node id="s__bacteroides_caccae_ti+1" />
+    <node id="s__bacteroides_cellulosilyticus_ti+1" />
+    <node id="s__bacteroides_faecis_ti+1" />
+    <node id="s__bacteroides_finegoldii_ti+1" />
+    <node id="s__bacteroides_fragilis_ti+1" />
+    <node id="s__bacteroides_ovatus_ti+1" />
+    <node id="s__bacteroides_stercoris_ti+1" />
+    <node id="s__bacteroides_thetaiotaomicron_ti+1" />
+    <node id="s__bacteroides_uniformis_ti+1" />
+    <node id="s__bacteroides_xylanisolvens_ti+1" />
+    <node id="s__bifidobacterium_longum_ti+1" />
+    <node id="s__clostridium_bolteae_ti+1" />
+    <node id="s__clostridium_clostridioforme_ti+1" />
+    <node id="s__escherichia_coli_ti+1" />
+    <node id="s__eubacterium_rectale_ti+1" />
+    <node id="s__eubacterium_siraeum_ti+1" />
+    <node id="s__eubacterium_ventriosum_ti+1" />
+    <node id="s__faecalibacterium_prausnitzii_ti+1" />
+    <node id="s__haemophilus_parainfluenzae_ti+1" />
+    <node id="s__klebsiella_pneumoniae_ti+1" />
+    <node id="s__odoribacter_splanchnicus_ti+1" />
+    <node id="s__roseburia_intestinalis_ti+1" />
+    <node id="s__roseburia_inulinivorans_ti+1" />
+    <node id="s__ruminococcus_torques_ti+1" />
+    <node id="s__streptococcus_parasanguinis_ti+1" />
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1">
+      <data key="d0">0.9187219030722061</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti" target="g__3-hydroxybutyryl-coa dehydrogenase_ti+1">
+      <data key="d0">0.9176546044821827</data>
+      <data key="d1">0.9215686274509803</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1">
+      <data key="d0">0.9498103316819388</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti" target="g__5-formyltetrahydrofolate cyclo-ligase_ti+1">
+      <data key="d0">0.9291104005704642</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti" target="g__acetyl-coa c-acetyltransferase_ti+1">
+      <data key="d0">0.9411165913873375</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti" target="g__aldose 1-epimerase_ti+1">
+      <data key="d0">0.9461600737294639</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti" target="g__aspartate ammonia-lyase_ti+1">
+      <data key="d0">0.9468110837276501</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti" target="g__beta-lactamase_ti+1">
+      <data key="d0">0.9276306662342623</data>
+      <data key="d1">0.9215686274509803</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti" target="g__dephospho-coa kinase_ti+1">
+      <data key="d0">0.9561303331283082</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti" target="g__dihydrolipoyl dehydrogenase_ti+1">
+      <data key="d0">0.9396616057870774</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti" target="g__dna helicase_ti+1">
+      <data key="d0">0.9376238297510137</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti" target="g__dna-directed rna polymerase_ti+1">
+      <data key="d0">0.9399931223218609</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti" target="g__endopeptidase clp_ti+1">
+      <data key="d0">0.9351657433516015</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti" target="g__fructose-bisphosphate aldolase_ti+1">
+      <data key="d0">0.9518880465972226</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti" target="g__glucose-1-phosphate adenylyltransferase_ti+1">
+      <data key="d0">0.9529457761298643</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti" target="g__glutamate decarboxylase_ti+1">
+      <data key="d0">0.9551888659632991</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti" target="g__glutamate dehydrogenase_ti+1">
+      <data key="d0">0.9294844925215429</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti" target="g__histidine kinase_ti+1">
+      <data key="d0">0.9467827326523434</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti" target="g__l-serine ammonia-lyase_ti+1">
+      <data key="d0">0.9501698331141268</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti" target="g__methionyl aminopeptidase_ti+1">
+      <data key="d0">0.9580616123839618</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti" target="g__peptidylprolyl isomerase_ti+1">
+      <data key="d0">0.939707132626651</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti" target="g__peroxiredoxin_ti+1">
+      <data key="d0">0.9379227441392162</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti" target="g__phosphatidate cytidylyltransferase_ti+1">
+      <data key="d0">0.933471886987948</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti" target="g__phosphoglycerate kinase_ti+1">
+      <data key="d0">0.9598498716014134</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti" target="g__phosphopyruvate hydratase_ti+1">
+      <data key="d0">0.9561318623311228</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti" target="g__pyruvate carboxylase_ti+1">
+      <data key="d0">0.9280003457153692</data>
+      <data key="d1">0.9215686274509803</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti" target="g__ribulose-phosphate 3-epimerase_ti+1">
+      <data key="d0">0.9408280887538154</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti" target="g__rna helicase_ti+1">
+      <data key="d0">0.9221339977323042</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti" target="g__shikimate kinase_ti+1">
+      <data key="d0">0.938881453322334</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti" target="g__superoxide dismutase_ti+1">
+      <data key="d0">0.9247295144431575</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti" target="g__thymidylate synthase_ti+1">
+      <data key="d0">0.9533086894207002</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti" target="g__transaldolase_ti+1">
+      <data key="d0">0.9400740317857499</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti" target="g__triose-phosphate isomerase_ti+1">
+      <data key="d0">0.9358590282756817</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti" target="g__uridine kinase_ti+1">
+      <data key="d0">0.9455427458403457</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="m__hmdb00014_ti" target="m__hmdb00014_ti+1">
+      <data key="d0">0.8559717817490642</data>
+      <data key="d1">0.8823529411764706</data>
+    </edge>
+    <edge id="0" source="m__hmdb00020_ti" target="m__hmdb00020_ti+1">
+      <data key="d0">0.8864672360919061</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="m__hmdb00030_ti" target="m__hmdb00030_ti+1">
+      <data key="d0">0.8770841814146291</data>
+      <data key="d1">0.9215686274509803</data>
+    </edge>
+    <edge id="0" source="m__hmdb00043_ti" target="m__hmdb00043_ti+1">
+      <data key="d0">0.8912484191877406</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="m__hmdb00056_ti+1">
+      <data key="d0">0.8640672675611322</data>
+      <data key="d1">0.9019607843137255</data>
+    </edge>
+    <edge id="0" source="m__hmdb00089_ti" target="m__hmdb00089_ti+1">
+      <data key="d0">0.8840707421691358</data>
+      <data key="d1">0.9019607843137255</data>
+    </edge>
+    <edge id="0" source="m__hmdb00097_ti" target="m__hmdb00097_ti+1">
+      <data key="d0">0.8708616434883768</data>
+      <data key="d1">0.9215686274509803</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.8676886468994676</data>
+      <data key="d1">0.8627450980392157</data>
+    </edge>
+    <edge id="0" source="m__hmdb00209_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.8635284649570902</data>
+      <data key="d1">0.9215686274509803</data>
+    </edge>
+    <edge id="0" source="m__hmdb00239_ti" target="m__hmdb00239_ti+1">
+      <data key="d0">0.8773388460226615</data>
+      <data key="d1">0.8627450980392157</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="m__hmdb00251_ti+1">
+      <data key="d0">0.8506439498543975</data>
+      <data key="d1">0.9215686274509803</data>
+    </edge>
+    <edge id="0" source="m__hmdb00289_ti" target="m__hmdb00289_ti+1">
+      <data key="d0">0.886740239101355</data>
+      <data key="d1">0.9215686274509803</data>
+    </edge>
+    <edge id="0" source="m__hmdb00296_ti" target="m__hmdb00296_ti+1">
+      <data key="d0">0.9129643406540084</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="m__hmdb00619_ti+1">
+      <data key="d0">0.8519120873775347</data>
+      <data key="d1">0.8431372549019608</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="m__hmdb00630_ti+1">
+      <data key="d0">0.8928604280589508</data>
+      <data key="d1">0.8823529411764706</data>
+    </edge>
+    <edge id="0" source="m__hmdb00764_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.8364285451567066</data>
+      <data key="d1">0.8627450980392157</data>
+    </edge>
+    <edge id="0" source="m__hmdb01149_ti" target="m__hmdb01149_ti+1">
+      <data key="d0">0.8366331619323129</data>
+      <data key="d1">0.9019607843137255</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="m__hmdb01257_ti+1">
+      <data key="d0">0.8564384800943946</data>
+      <data key="d1">0.8627450980392157</data>
+    </edge>
+    <edge id="0" source="m__hmdb02322_ti" target="m__hmdb02322_ti+1">
+      <data key="d0">0.9010026401405561</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="s__akkermansia_muciniphila_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.7104682738323242</data>
+      <data key="d1">0.7254901960784313</data>
+    </edge>
+    <edge id="0" source="s__alistipes_shahii_ti" target="s__alistipes_shahii_ti+1">
+      <data key="d0">0.6509015740761347</data>
+      <data key="d1">0.6274509803921569</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.8071381539311698</data>
+      <data key="d1">0.7843137254901961</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_cellulosilyticus_ti" target="s__bacteroides_cellulosilyticus_ti+1">
+      <data key="d0">0.5812476555890662</data>
+      <data key="d1">0.5490196078431373</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti" target="s__bacteroides_faecis_ti+1">
+      <data key="d0">0.5499770915881621</data>
+      <data key="d1">0.5686274509803921</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_finegoldii_ti" target="s__bacteroides_finegoldii_ti+1">
+      <data key="d0">0.5665176313480228</data>
+      <data key="d1">0.5490196078431373</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.7475760367528116</data>
+      <data key="d1">0.7647058823529411</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.8778631864715304</data>
+      <data key="d1">0.8823529411764706</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.8828153519411217</data>
+      <data key="d1">0.8823529411764706</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_thetaiotaomicron_ti" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.7761466143812704</data>
+      <data key="d1">0.7254901960784313</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.8757754721658253</data>
+      <data key="d1">0.9019607843137255</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_xylanisolvens_ti" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.7885688288975509</data>
+      <data key="d1">0.7450980392156863</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.7672474159684669</data>
+      <data key="d1">0.7450980392156863</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.8281692091689442</data>
+      <data key="d1">0.8235294117647058</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti" target="s__clostridium_clostridioforme_ti+1">
+      <data key="d0">0.4275592212397281</data>
+      <data key="d1">0.37254901960784315</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.7978467576745295</data>
+      <data key="d1">0.7843137254901961</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.8126386086866154</data>
+      <data key="d1">0.803921568627451</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_siraeum_ti" target="s__eubacterium_siraeum_ti+1">
+      <data key="d0">0.6013737213797983</data>
+      <data key="d1">0.6078431372549019</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="s__eubacterium_ventriosum_ti+1">
+      <data key="d0">0.6453799423291566</data>
+      <data key="d1">0.6470588235294118</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.8273574792112413</data>
+      <data key="d1">0.7843137254901961</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.7591681859863088</data>
+      <data key="d1">0.7843137254901961</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti" target="s__klebsiella_pneumoniae_ti+1">
+      <data key="d0">0.3377915268258745</data>
+      <data key="d1">0.37254901960784315</data>
+    </edge>
+    <edge id="0" source="s__odoribacter_splanchnicus_ti" target="s__odoribacter_splanchnicus_ti+1">
+      <data key="d0">0.5297115654593467</data>
+      <data key="d1">0.5098039215686274</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">0.83738878969024</data>
+      <data key="d1">0.8235294117647058</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="s__roseburia_inulinivorans_ti+1">
+      <data key="d0">0.8184459127834642</data>
+      <data key="d1">0.7450980392156863</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.7676050506289236</data>
+      <data key="d1">0.7450980392156863</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti" target="s__streptococcus_parasanguinis_ti+1">
+      <data key="d0">0.6243536498424324</data>
+      <data key="d1">0.6078431372549019</data>
+    </edge>
+  </graph>
+</graphml>

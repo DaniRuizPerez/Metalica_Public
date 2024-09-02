@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+<key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+<key id="key_bootScore" for="edge" attr.name="bootScore" attr.type="double"/>
+<graph id="filtered_ibd_t_m_noalignment_sr7d_skeleton_boot427_dbnIntra" edgedefault="directed">
+<node id="week sample obtained_t0"/>
+<node id="s__bacteroides_ovatus_t0"/>
+<node id="s__odoribacter_splanchnicus_t0"/>
+<node id="m__hmdb00630_t0"/>
+<node id="s__bacteroides_caccae_t0"/>
+<node id="s__bacteroides_finegoldii_t0"/>
+<node id="s__bacteroides_xylanisolvens_t0"/>
+<node id="m__hmdb02322_t0"/>
+<node id="m__hmdb00239_t0"/>
+<node id="s__escherichia_coli_t0"/>
+<node id="m__hmdb01257_t0"/>
+<node id="s__alistipes_shahii_t0"/>
+<node id="m__hmdb00043_t0"/>
+<node id="m__hmdb00097_t0"/>
+<node id="s__bacteroides_cellulosilyticus_t0"/>
+<node id="s__haemophilus_parainfluenzae_t0"/>
+<node id="m__hmdb00619_t0"/>
+<node id="m__hmdb00089_t0"/>
+<node id="s__bacteroides_faecis_t0"/>
+<node id="m__hmdb01149_t0"/>
+<node id="s__bacteroides_stercoris_t0"/>
+<node id="m__hmdb00289_t0"/>
+<node id="s__ruminococcus_torques_t0"/>
+<node id="m__hmdb00020_t0"/>
+<node id="s__roseburia_intestinalis_t0"/>
+<node id="m__hmdb00764_t0"/>
+<node id="s__clostridium_bolteae_t0"/>
+<node id="s__streptococcus_parasanguinis_t0"/>
+<node id="s__bacteroides_thetaiotaomicron_t0"/>
+<node id="s__klebsiella_pneumoniae_t0"/>
+<node id="s__eubacterium_ventriosum_t0"/>
+<node id="s__bacteroides_fragilis_t0"/>
+<node id="m__hmdb00014_t0"/>
+<node id="m__hmdb00209_t0"/>
+<node id="m__hmdb00056_t0"/>
+<node id="s__clostridium_clostridioforme_t0"/>
+<node id="s__faecalibacterium_prausnitzii_t0"/>
+<node id="s__akkermansia_muciniphila_t0"/>
+<node id="m__hmdb00251_t0"/>
+<node id="s__bifidobacterium_longum_t0"/>
+<node id="s__bacteroides_uniformis_t0"/>
+<node id="s__roseburia_inulinivorans_t0"/>
+<node id="m__hmdb00296_t0"/>
+<node id="s__eubacterium_rectale_t0"/>
+<node id="m__hmdb00195_t0"/>
+<node id="s__eubacterium_siraeum_t0"/>
+<node id="m__hmdb00030_t0"/>
+<node id="week sample obtained_tn"/>
+<node id="s__bacteroides_ovatus_tn"/>
+<node id="s__odoribacter_splanchnicus_tn"/>
+<node id="m__hmdb00630_tn"/>
+<node id="s__bacteroides_caccae_tn"/>
+<node id="s__bacteroides_finegoldii_tn"/>
+<node id="s__bacteroides_xylanisolvens_tn"/>
+<node id="m__hmdb02322_tn"/>
+<node id="m__hmdb00239_tn"/>
+<node id="s__escherichia_coli_tn"/>
+<node id="m__hmdb01257_tn"/>
+<node id="s__alistipes_shahii_tn"/>
+<node id="m__hmdb00043_tn"/>
+<node id="m__hmdb00097_tn"/>
+<node id="s__bacteroides_cellulosilyticus_tn"/>
+<node id="s__haemophilus_parainfluenzae_tn"/>
+<node id="m__hmdb00619_tn"/>
+<node id="m__hmdb00089_tn"/>
+<node id="s__bacteroides_faecis_tn"/>
+<node id="m__hmdb01149_tn"/>
+<node id="s__bacteroides_stercoris_tn"/>
+<node id="m__hmdb00289_tn"/>
+<node id="s__ruminococcus_torques_tn"/>
+<node id="m__hmdb00020_tn"/>
+<node id="s__roseburia_intestinalis_tn"/>
+<node id="m__hmdb00764_tn"/>
+<node id="s__clostridium_bolteae_tn"/>
+<node id="s__streptococcus_parasanguinis_tn"/>
+<node id="s__bacteroides_thetaiotaomicron_tn"/>
+<node id="s__klebsiella_pneumoniae_tn"/>
+<node id="s__eubacterium_ventriosum_tn"/>
+<node id="s__bacteroides_fragilis_tn"/>
+<node id="m__hmdb00014_tn"/>
+<node id="m__hmdb00209_tn"/>
+<node id="m__hmdb00056_tn"/>
+<node id="s__clostridium_clostridioforme_tn"/>
+<node id="s__faecalibacterium_prausnitzii_tn"/>
+<node id="s__akkermansia_muciniphila_tn"/>
+<node id="m__hmdb00251_tn"/>
+<node id="s__bifidobacterium_longum_tn"/>
+<node id="s__bacteroides_uniformis_tn"/>
+<node id="s__roseburia_inulinivorans_tn"/>
+<node id="m__hmdb00296_tn"/>
+<node id="s__eubacterium_rectale_tn"/>
+<node id="m__hmdb00195_tn"/>
+<node id="s__eubacterium_siraeum_tn"/>
+<node id="m__hmdb00030_tn"/>
+<edge id="e1" source="s__bacteroides_ovatus_t0" target="s__bacteroides_ovatus_tn">
+<data key="key_weight">0.836502</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e2" source="m__hmdb00239_t0" target="s__bacteroides_ovatus_tn">
+<data key="key_weight">0.096546</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e3" source="m__hmdb00014_t0" target="s__bacteroides_ovatus_tn">
+<data key="key_weight">0.158968</data>
+<data key="key_bootScore">0.400000</data>
+</edge>
+<edge id="e4" source="m__hmdb00251_t0" target="s__bacteroides_ovatus_tn">
+<data key="key_weight">1.018675</data>
+<data key="key_bootScore">0.580000</data>
+</edge>
+<edge id="e5" source="s__odoribacter_splanchnicus_t0" target="s__odoribacter_splanchnicus_tn">
+<data key="key_weight">0.972937</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e6" source="m__hmdb00097_t0" target="s__odoribacter_splanchnicus_tn">
+<data key="key_weight">0.009248</data>
+<data key="key_bootScore">0.330000</data>
+</edge>
+<edge id="e7" source="m__hmdb01149_t0" target="s__odoribacter_splanchnicus_tn">
+<data key="key_weight">-0.003412</data>
+<data key="key_bootScore">0.430000</data>
+</edge>
+<edge id="e8" source="m__hmdb00764_t0" target="s__odoribacter_splanchnicus_tn">
+<data key="key_weight">0.135456</data>
+<data key="key_bootScore">0.310000</data>
+</edge>
+<edge id="e9" source="week sample obtained_tn" target="s__odoribacter_splanchnicus_tn">
+<data key="key_weight">0.000014</data>
+<data key="key_bootScore">0.860000</data>
+</edge>
+<edge id="e10" source="m__hmdb00630_t0" target="m__hmdb00630_tn">
+<data key="key_weight">0.995103</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e11" source="s__bacteroides_caccae_t0" target="s__bacteroides_caccae_tn">
+<data key="key_weight">0.931467</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e12" source="m__hmdb01257_t0" target="s__bacteroides_caccae_tn">
+<data key="key_weight">-0.006950</data>
+<data key="key_bootScore">0.930000</data>
+</edge>
+<edge id="e13" source="m__hmdb00056_t0" target="s__bacteroides_caccae_tn">
+<data key="key_weight">-0.066627</data>
+<data key="key_bootScore">0.920000</data>
+</edge>
+<edge id="e14" source="m__hmdb00630_t0" target="s__bacteroides_finegoldii_tn">
+<data key="key_weight">-1.510363</data>
+<data key="key_bootScore">0.830000</data>
+</edge>
+<edge id="e15" source="s__bacteroides_finegoldii_t0" target="s__bacteroides_finegoldii_tn">
+<data key="key_weight">0.942846</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e16" source="m__hmdb00619_t0" target="s__bacteroides_finegoldii_tn">
+<data key="key_weight">0.044370</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e17" source="m__hmdb00289_t0" target="s__bacteroides_finegoldii_tn">
+<data key="key_weight">-0.001434</data>
+<data key="key_bootScore">0.170000</data>
+</edge>
+<edge id="e18" source="s__bacteroides_xylanisolvens_t0" target="s__bacteroides_xylanisolvens_tn">
+<data key="key_weight">0.986515</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e19" source="m__hmdb00097_t0" target="s__bacteroides_xylanisolvens_tn">
+<data key="key_weight">0.044110</data>
+<data key="key_bootScore">0.350000</data>
+</edge>
+<edge id="e20" source="m__hmdb00619_t0" target="s__bacteroides_xylanisolvens_tn">
+<data key="key_weight">0.006515</data>
+<data key="key_bootScore">0.260000</data>
+</edge>
+<edge id="e21" source="m__hmdb01149_t0" target="s__bacteroides_xylanisolvens_tn">
+<data key="key_weight">-0.016879</data>
+<data key="key_bootScore">0.550000</data>
+</edge>
+<edge id="e22" source="m__hmdb00296_t0" target="s__bacteroides_xylanisolvens_tn">
+<data key="key_weight">0.224646</data>
+<data key="key_bootScore">0.390000</data>
+</edge>
+<edge id="e23" source="m__hmdb00195_t0" target="s__bacteroides_xylanisolvens_tn">
+<data key="key_weight">-0.661320</data>
+<data key="key_bootScore">0.450000</data>
+</edge>
+<edge id="e24" source="m__hmdb02322_t0" target="m__hmdb02322_tn">
+<data key="key_weight">0.980505</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e25" source="m__hmdb00239_t0" target="m__hmdb00239_tn">
+<data key="key_weight">0.988418</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e26" source="m__hmdb02322_t0" target="s__escherichia_coli_tn">
+<data key="key_weight">0.000969</data>
+<data key="key_bootScore">0.160000</data>
+</edge>
+<edge id="e27" source="s__escherichia_coli_t0" target="s__escherichia_coli_tn">
+<data key="key_weight">0.871688</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e28" source="m__hmdb01149_t0" target="s__escherichia_coli_tn">
+<data key="key_weight">0.043793</data>
+<data key="key_bootScore">0.760000</data>
+</edge>
+<edge id="e29" source="m__hmdb00014_t0" target="s__escherichia_coli_tn">
+<data key="key_weight">0.378831</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e30" source="m__hmdb01257_t0" target="m__hmdb01257_tn">
+<data key="key_weight">0.982820</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e31" source="m__hmdb01257_t0" target="s__alistipes_shahii_tn">
+<data key="key_weight">0.000418</data>
+<data key="key_bootScore">0.960000</data>
+</edge>
+<edge id="e32" source="s__alistipes_shahii_t0" target="s__alistipes_shahii_tn">
+<data key="key_weight">0.999494</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e33" source="m__hmdb01149_t0" target="s__alistipes_shahii_tn">
+<data key="key_weight">-0.004492</data>
+<data key="key_bootScore">0.580000</data>
+</edge>
+<edge id="e34" source="m__hmdb00764_t0" target="s__alistipes_shahii_tn">
+<data key="key_weight">0.148557</data>
+<data key="key_bootScore">0.370000</data>
+</edge>
+<edge id="e35" source="m__hmdb00043_t0" target="m__hmdb00043_tn">
+<data key="key_weight">1.028684</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e36" source="m__hmdb00097_t0" target="m__hmdb00097_tn">
+<data key="key_weight">0.993470</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e37" source="s__bacteroides_cellulosilyticus_t0" target="s__bacteroides_cellulosilyticus_tn">
+<data key="key_weight">0.978206</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e38" source="m__hmdb00764_t0" target="s__bacteroides_cellulosilyticus_tn">
+<data key="key_weight">0.235702</data>
+<data key="key_bootScore">0.670000</data>
+</edge>
+<edge id="e39" source="m__hmdb00209_t0" target="s__bacteroides_cellulosilyticus_tn">
+<data key="key_weight">-0.687463</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e40" source="m__hmdb00251_t0" target="s__bacteroides_cellulosilyticus_tn">
+<data key="key_weight">-0.023178</data>
+<data key="key_bootScore">0.330000</data>
+</edge>
+<edge id="e41" source="s__haemophilus_parainfluenzae_t0" target="s__haemophilus_parainfluenzae_tn">
+<data key="key_weight">0.948588</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e42" source="m__hmdb00089_t0" target="s__haemophilus_parainfluenzae_tn">
+<data key="key_weight">0.040787</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e43" source="m__hmdb00014_t0" target="s__haemophilus_parainfluenzae_tn">
+<data key="key_weight">-0.205888</data>
+<data key="key_bootScore">0.940000</data>
+</edge>
+<edge id="e44" source="m__hmdb00619_t0" target="m__hmdb00619_tn">
+<data key="key_weight">0.992464</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e45" source="m__hmdb00089_t0" target="m__hmdb00089_tn">
+<data key="key_weight">0.995731</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e46" source="s__bacteroides_faecis_t0" target="s__bacteroides_faecis_tn">
+<data key="key_weight">1.086738</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e47" source="m__hmdb00030_t0" target="s__bacteroides_faecis_tn">
+<data key="key_weight">-0.018802</data>
+<data key="key_bootScore">0.990000</data>
+</edge>
+<edge id="e48" source="week sample obtained_tn" target="s__bacteroides_faecis_tn">
+<data key="key_weight">0.000164</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e49" source="m__hmdb01149_t0" target="m__hmdb01149_tn">
+<data key="key_weight">0.989179</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e50" source="m__hmdb00043_t0" target="s__bacteroides_stercoris_tn">
+<data key="key_weight">0.814134</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e51" source="s__bacteroides_stercoris_t0" target="s__bacteroides_stercoris_tn">
+<data key="key_weight">0.953939</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e52" source="m__hmdb00014_t0" target="s__bacteroides_stercoris_tn">
+<data key="key_weight">0.327266</data>
+<data key="key_bootScore">0.890000</data>
+</edge>
+<edge id="e53" source="m__hmdb00056_t0" target="s__bacteroides_stercoris_tn">
+<data key="key_weight">0.007725</data>
+<data key="key_bootScore">0.100000</data>
+</edge>
+<edge id="e54" source="m__hmdb00289_t0" target="m__hmdb00289_tn">
+<data key="key_weight">0.991296</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e55" source="s__ruminococcus_torques_t0" target="s__ruminococcus_torques_tn">
+<data key="key_weight">0.739376</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e56" source="m__hmdb00764_t0" target="s__ruminococcus_torques_tn">
+<data key="key_weight">3.278893</data>
+<data key="key_bootScore">0.920000</data>
+</edge>
+<edge id="e57" source="m__hmdb00056_t0" target="s__ruminococcus_torques_tn">
+<data key="key_weight">0.012528</data>
+<data key="key_bootScore">0.420000</data>
+</edge>
+<edge id="e58" source="m__hmdb00251_t0" target="s__ruminococcus_torques_tn">
+<data key="key_weight">0.337530</data>
+<data key="key_bootScore">0.580000</data>
+</edge>
+<edge id="e59" source="m__hmdb00020_t0" target="m__hmdb00020_tn">
+<data key="key_weight">1.072980</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e60" source="m__hmdb00020_t0" target="s__roseburia_intestinalis_tn">
+<data key="key_weight">-5.882987</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e61" source="s__roseburia_intestinalis_t0" target="s__roseburia_intestinalis_tn">
+<data key="key_weight">0.765567</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e62" source="m__hmdb00209_t0" target="s__roseburia_intestinalis_tn">
+<data key="key_weight">20.113261</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e63" source="m__hmdb00764_t0" target="m__hmdb00764_tn">
+<data key="key_weight">0.997448</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e64" source="m__hmdb00239_t0" target="s__clostridium_bolteae_tn">
+<data key="key_weight">0.001336</data>
+<data key="key_bootScore">0.620000</data>
+</edge>
+<edge id="e65" source="m__hmdb01257_t0" target="s__clostridium_bolteae_tn">
+<data key="key_weight">0.000282</data>
+<data key="key_bootScore">0.380000</data>
+</edge>
+<edge id="e66" source="m__hmdb00043_t0" target="s__clostridium_bolteae_tn">
+<data key="key_weight">-0.009095</data>
+<data key="key_bootScore">0.250000</data>
+</edge>
+<edge id="e67" source="m__hmdb00619_t0" target="s__clostridium_bolteae_tn">
+<data key="key_weight">0.006023</data>
+<data key="key_bootScore">0.660000</data>
+</edge>
+<edge id="e68" source="s__clostridium_bolteae_t0" target="s__clostridium_bolteae_tn">
+<data key="key_weight">0.903865</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e69" source="m__hmdb00097_t0" target="s__streptococcus_parasanguinis_tn">
+<data key="key_weight">-0.116279</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e70" source="s__streptococcus_parasanguinis_t0" target="s__streptococcus_parasanguinis_tn">
+<data key="key_weight">0.729923</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e71" source="week sample obtained_tn" target="s__streptococcus_parasanguinis_tn">
+<data key="key_weight">-0.000068</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e72" source="m__hmdb00020_t0" target="s__bacteroides_thetaiotaomicron_tn">
+<data key="key_weight">-1.151497</data>
+<data key="key_bootScore">0.790000</data>
+</edge>
+<edge id="e73" source="s__bacteroides_thetaiotaomicron_t0" target="s__bacteroides_thetaiotaomicron_tn">
+<data key="key_weight">0.907699</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e74" source="m__hmdb00056_t0" target="s__bacteroides_thetaiotaomicron_tn">
+<data key="key_weight">-0.004738</data>
+<data key="key_bootScore">0.180000</data>
+</edge>
+<edge id="e75" source="m__hmdb00296_t0" target="s__bacteroides_thetaiotaomicron_tn">
+<data key="key_weight">0.965433</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e76" source="m__hmdb00097_t0" target="s__klebsiella_pneumoniae_tn">
+<data key="key_weight">-0.069013</data>
+<data key="key_bootScore">0.300000</data>
+</edge>
+<edge id="e77" source="s__klebsiella_pneumoniae_t0" target="s__klebsiella_pneumoniae_tn">
+<data key="key_weight">0.936956</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e78" source="m__hmdb00251_t0" target="s__klebsiella_pneumoniae_tn">
+<data key="key_weight">0.492223</data>
+<data key="key_bootScore">0.700000</data>
+</edge>
+<edge id="e79" source="week sample obtained_tn" target="s__klebsiella_pneumoniae_tn">
+<data key="key_weight">-0.000173</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e80" source="m__hmdb01257_t0" target="s__eubacterium_ventriosum_tn">
+<data key="key_weight">0.000300</data>
+<data key="key_bootScore">0.720000</data>
+</edge>
+<edge id="e81" source="m__hmdb00043_t0" target="s__eubacterium_ventriosum_tn">
+<data key="key_weight">0.058324</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e82" source="m__hmdb00619_t0" target="s__eubacterium_ventriosum_tn">
+<data key="key_weight">-0.001567</data>
+<data key="key_bootScore">0.260000</data>
+</edge>
+<edge id="e83" source="s__eubacterium_ventriosum_t0" target="s__eubacterium_ventriosum_tn">
+<data key="key_weight">0.883472</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e84" source="m__hmdb00097_t0" target="s__bacteroides_fragilis_tn">
+<data key="key_weight">0.920426</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e85" source="m__hmdb00020_t0" target="s__bacteroides_fragilis_tn">
+<data key="key_weight">-4.347987</data>
+<data key="key_bootScore">0.960000</data>
+</edge>
+<edge id="e86" source="s__bacteroides_fragilis_t0" target="s__bacteroides_fragilis_tn">
+<data key="key_weight">0.914787</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e87" source="m__hmdb00014_t0" target="m__hmdb00014_tn">
+<data key="key_weight">0.992481</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e88" source="m__hmdb00209_t0" target="m__hmdb00209_tn">
+<data key="key_weight">0.973219</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e89" source="m__hmdb00056_t0" target="m__hmdb00056_tn">
+<data key="key_weight">1.132948</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e90" source="m__hmdb00097_t0" target="s__clostridium_clostridioforme_tn">
+<data key="key_weight">-0.032037</data>
+<data key="key_bootScore">0.250000</data>
+</edge>
+<edge id="e91" source="m__hmdb00020_t0" target="s__clostridium_clostridioforme_tn">
+<data key="key_weight">0.675436</data>
+<data key="key_bootScore">0.680000</data>
+</edge>
+<edge id="e92" source="s__clostridium_clostridioforme_t0" target="s__clostridium_clostridioforme_tn">
+<data key="key_weight">0.835374</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e93" source="m__hmdb00030_t0" target="s__clostridium_clostridioforme_tn">
+<data key="key_weight">0.024357</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e94" source="m__hmdb02322_t0" target="s__faecalibacterium_prausnitzii_tn">
+<data key="key_weight">0.006401</data>
+<data key="key_bootScore">0.290000</data>
+</edge>
+<edge id="e95" source="m__hmdb01257_t0" target="s__faecalibacterium_prausnitzii_tn">
+<data key="key_weight">0.002289</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e96" source="m__hmdb00097_t0" target="s__faecalibacterium_prausnitzii_tn">
+<data key="key_weight">0.114886</data>
+<data key="key_bootScore">0.120000</data>
+</edge>
+<edge id="e97" source="m__hmdb00619_t0" target="s__faecalibacterium_prausnitzii_tn">
+<data key="key_weight">-0.227731</data>
+<data key="key_bootScore">0.910000</data>
+</edge>
+<edge id="e98" source="m__hmdb00289_t0" target="s__faecalibacterium_prausnitzii_tn">
+<data key="key_weight">-0.009284</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e99" source="s__faecalibacterium_prausnitzii_t0" target="s__faecalibacterium_prausnitzii_tn">
+<data key="key_weight">0.857877</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e100" source="m__hmdb02322_t0" target="s__akkermansia_muciniphila_tn">
+<data key="key_weight">0.006081</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e101" source="m__hmdb00764_t0" target="s__akkermansia_muciniphila_tn">
+<data key="key_weight">2.770716</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e102" source="s__akkermansia_muciniphila_t0" target="s__akkermansia_muciniphila_tn">
+<data key="key_weight">0.881909</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e103" source="m__hmdb00251_t0" target="m__hmdb00251_tn">
+<data key="key_weight">0.982103</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e104" source="m__hmdb00619_t0" target="s__bifidobacterium_longum_tn">
+<data key="key_weight">-0.022532</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e105" source="m__hmdb01149_t0" target="s__bifidobacterium_longum_tn">
+<data key="key_weight">0.065597</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e106" source="s__bifidobacterium_longum_t0" target="s__bifidobacterium_longum_tn">
+<data key="key_weight">0.915144</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e107" source="m__hmdb00289_t0" target="s__bacteroides_uniformis_tn">
+<data key="key_weight">0.102116</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e108" source="m__hmdb00020_t0" target="s__bacteroides_uniformis_tn">
+<data key="key_weight">1.297820</data>
+<data key="key_bootScore">0.190000</data>
+</edge>
+<edge id="e109" source="m__hmdb00764_t0" target="s__bacteroides_uniformis_tn">
+<data key="key_weight">-7.886768</data>
+<data key="key_bootScore">0.700000</data>
+</edge>
+<edge id="e110" source="s__bacteroides_uniformis_t0" target="s__bacteroides_uniformis_tn">
+<data key="key_weight">0.890642</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e111" source="m__hmdb00097_t0" target="s__roseburia_inulinivorans_tn">
+<data key="key_weight">0.083326</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e112" source="m__hmdb00619_t0" target="s__roseburia_inulinivorans_tn">
+<data key="key_weight">-0.023196</data>
+<data key="key_bootScore">0.960000</data>
+</edge>
+<edge id="e113" source="s__roseburia_inulinivorans_t0" target="s__roseburia_inulinivorans_tn">
+<data key="key_weight">0.906659</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e114" source="m__hmdb00296_t0" target="m__hmdb00296_tn">
+<data key="key_weight">0.997365</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e115" source="m__hmdb01257_t0" target="s__eubacterium_rectale_tn">
+<data key="key_weight">0.010019</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e116" source="m__hmdb00619_t0" target="s__eubacterium_rectale_tn">
+<data key="key_weight">-0.069495</data>
+<data key="key_bootScore">0.640000</data>
+</edge>
+<edge id="e117" source="s__eubacterium_rectale_t0" target="s__eubacterium_rectale_tn">
+<data key="key_weight">0.856791</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e118" source="week sample obtained_tn" target="s__eubacterium_rectale_tn">
+<data key="key_weight">0.000047</data>
+<data key="key_bootScore">0.240000</data>
+</edge>
+<edge id="e119" source="m__hmdb00195_t0" target="m__hmdb00195_tn">
+<data key="key_weight">0.971566</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e120" source="m__hmdb01149_t0" target="s__eubacterium_siraeum_tn">
+<data key="key_weight">0.010102</data>
+<data key="key_bootScore">0.410000</data>
+</edge>
+<edge id="e121" source="m__hmdb00764_t0" target="s__eubacterium_siraeum_tn">
+<data key="key_weight">0.596211</data>
+<data key="key_bootScore">0.480000</data>
+</edge>
+<edge id="e122" source="m__hmdb00251_t0" target="s__eubacterium_siraeum_tn">
+<data key="key_weight">-0.100325</data>
+<data key="key_bootScore">0.480000</data>
+</edge>
+<edge id="e123" source="s__eubacterium_siraeum_t0" target="s__eubacterium_siraeum_tn">
+<data key="key_weight">0.927149</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+<edge id="e124" source="m__hmdb00030_t0" target="s__eubacterium_siraeum_tn">
+<data key="key_weight">-0.003109</data>
+<data key="key_bootScore">0.590000</data>
+</edge>
+<edge id="e125" source="m__hmdb00030_t0" target="m__hmdb00030_tn">
+<data key="key_weight">0.955207</data>
+<data key="key_bootScore">1.000000</data>
+</edge>
+</graph>
+</graphml>

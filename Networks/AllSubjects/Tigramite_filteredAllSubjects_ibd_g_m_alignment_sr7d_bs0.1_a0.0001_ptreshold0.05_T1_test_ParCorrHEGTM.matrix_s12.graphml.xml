@@ -1,0 +1,2817 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="bootscore" attr.type="float" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="float" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Disease state_ti" />
+    <node id="Age_ti" />
+    <node id="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti" />
+    <node id="g__3-hydroxybutyryl-coa dehydrogenase_ti" />
+    <node id="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti" />
+    <node id="g__5-formyltetrahydrofolate cyclo-ligase_ti" />
+    <node id="g__acetyl-coa c-acetyltransferase_ti" />
+    <node id="g__aldose 1-epimerase_ti" />
+    <node id="g__aspartate ammonia-lyase_ti" />
+    <node id="g__beta-lactamase_ti" />
+    <node id="g__dephospho-coa kinase_ti" />
+    <node id="g__dihydrolipoyl dehydrogenase_ti" />
+    <node id="g__dna helicase_ti" />
+    <node id="g__dna-directed rna polymerase_ti" />
+    <node id="g__endopeptidase clp_ti" />
+    <node id="g__fructose-bisphosphate aldolase_ti" />
+    <node id="g__glucose-1-phosphate adenylyltransferase_ti" />
+    <node id="g__glutamate decarboxylase_ti" />
+    <node id="g__glutamate dehydrogenase_ti" />
+    <node id="g__histidine kinase_ti" />
+    <node id="g__l-serine ammonia-lyase_ti" />
+    <node id="g__methionyl aminopeptidase_ti" />
+    <node id="g__peptidylprolyl isomerase_ti" />
+    <node id="g__peroxiredoxin_ti" />
+    <node id="g__phosphatidate cytidylyltransferase_ti" />
+    <node id="g__phosphoglycerate kinase_ti" />
+    <node id="g__phosphopyruvate hydratase_ti" />
+    <node id="g__pyruvate carboxylase_ti" />
+    <node id="g__ribulose-phosphate 3-epimerase_ti" />
+    <node id="g__rna helicase_ti" />
+    <node id="g__shikimate kinase_ti" />
+    <node id="g__superoxide dismutase_ti" />
+    <node id="g__thymidylate synthase_ti" />
+    <node id="g__transaldolase_ti" />
+    <node id="g__triose-phosphate isomerase_ti" />
+    <node id="g__uridine kinase_ti" />
+    <node id="m__hmdb00014_ti" />
+    <node id="m__hmdb00020_ti" />
+    <node id="m__hmdb00030_ti" />
+    <node id="m__hmdb00043_ti" />
+    <node id="m__hmdb00056_ti" />
+    <node id="m__hmdb00089_ti" />
+    <node id="m__hmdb00097_ti" />
+    <node id="m__hmdb00195_ti" />
+    <node id="m__hmdb00209_ti" />
+    <node id="m__hmdb00239_ti" />
+    <node id="m__hmdb00251_ti" />
+    <node id="m__hmdb00289_ti" />
+    <node id="m__hmdb00296_ti" />
+    <node id="m__hmdb00619_ti" />
+    <node id="m__hmdb00630_ti" />
+    <node id="m__hmdb00764_ti" />
+    <node id="m__hmdb01149_ti" />
+    <node id="m__hmdb01257_ti" />
+    <node id="m__hmdb02322_ti" />
+    <node id="Disease state_ti+1" />
+    <node id="Age_ti+1" />
+    <node id="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" />
+    <node id="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" />
+    <node id="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" />
+    <node id="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" />
+    <node id="g__acetyl-coa c-acetyltransferase_ti+1" />
+    <node id="g__aldose 1-epimerase_ti+1" />
+    <node id="g__aspartate ammonia-lyase_ti+1" />
+    <node id="g__beta-lactamase_ti+1" />
+    <node id="g__dephospho-coa kinase_ti+1" />
+    <node id="g__dihydrolipoyl dehydrogenase_ti+1" />
+    <node id="g__dna helicase_ti+1" />
+    <node id="g__dna-directed rna polymerase_ti+1" />
+    <node id="g__endopeptidase clp_ti+1" />
+    <node id="g__fructose-bisphosphate aldolase_ti+1" />
+    <node id="g__glucose-1-phosphate adenylyltransferase_ti+1" />
+    <node id="g__glutamate decarboxylase_ti+1" />
+    <node id="g__glutamate dehydrogenase_ti+1" />
+    <node id="g__histidine kinase_ti+1" />
+    <node id="g__l-serine ammonia-lyase_ti+1" />
+    <node id="g__methionyl aminopeptidase_ti+1" />
+    <node id="g__peptidylprolyl isomerase_ti+1" />
+    <node id="g__peroxiredoxin_ti+1" />
+    <node id="g__phosphatidate cytidylyltransferase_ti+1" />
+    <node id="g__phosphoglycerate kinase_ti+1" />
+    <node id="g__phosphopyruvate hydratase_ti+1" />
+    <node id="g__pyruvate carboxylase_ti+1" />
+    <node id="g__ribulose-phosphate 3-epimerase_ti+1" />
+    <node id="g__rna helicase_ti+1" />
+    <node id="g__shikimate kinase_ti+1" />
+    <node id="g__superoxide dismutase_ti+1" />
+    <node id="g__thymidylate synthase_ti+1" />
+    <node id="g__transaldolase_ti+1" />
+    <node id="g__triose-phosphate isomerase_ti+1" />
+    <node id="g__uridine kinase_ti+1" />
+    <node id="m__hmdb00014_ti+1" />
+    <node id="m__hmdb00020_ti+1" />
+    <node id="m__hmdb00030_ti+1" />
+    <node id="m__hmdb00043_ti+1" />
+    <node id="m__hmdb00056_ti+1" />
+    <node id="m__hmdb00089_ti+1" />
+    <node id="m__hmdb00097_ti+1" />
+    <node id="m__hmdb00195_ti+1" />
+    <node id="m__hmdb00209_ti+1" />
+    <node id="m__hmdb00239_ti+1" />
+    <node id="m__hmdb00251_ti+1" />
+    <node id="m__hmdb00289_ti+1" />
+    <node id="m__hmdb00296_ti+1" />
+    <node id="m__hmdb00619_ti+1" />
+    <node id="m__hmdb00630_ti+1" />
+    <node id="m__hmdb00764_ti+1" />
+    <node id="m__hmdb01149_ti+1" />
+    <node id="m__hmdb01257_ti+1" />
+    <node id="m__hmdb02322_ti+1" />
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti" target="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1">
+      <data key="d0">0.9900273265162055</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti" target="g__3-hydroxybutyryl-coa dehydrogenase_ti+1">
+      <data key="d0">0.9917838070842722</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1">
+      <data key="d0">0.9880632535001453</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti" target="g__5-formyltetrahydrofolate cyclo-ligase_ti+1">
+      <data key="d0">0.9875875980087381</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti" target="g__acetyl-coa c-acetyltransferase_ti+1">
+      <data key="d0">0.9906134826012634</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti" target="g__aldose 1-epimerase_ti+1">
+      <data key="d0">0.9868113240030572</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti" target="g__aspartate ammonia-lyase_ti+1">
+      <data key="d0">0.9885245141587617</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti" target="g__beta-lactamase_ti+1">
+      <data key="d0">0.9885627910047307</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti" target="g__dephospho-coa kinase_ti+1">
+      <data key="d0">0.9852683031665226</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti" target="g__dihydrolipoyl dehydrogenase_ti+1">
+      <data key="d0">0.988407757853212</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti" target="g__dna helicase_ti+1">
+      <data key="d0">0.9869702827527266</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti" target="g__dna-directed rna polymerase_ti+1">
+      <data key="d0">0.9908271154722292</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti" target="g__endopeptidase clp_ti+1">
+      <data key="d0">0.9857510489187286</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti" target="g__fructose-bisphosphate aldolase_ti+1">
+      <data key="d0">0.9907989599051459</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti" target="g__glucose-1-phosphate adenylyltransferase_ti+1">
+      <data key="d0">0.9926417737915045</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti" target="g__glutamate decarboxylase_ti+1">
+      <data key="d0">0.9862250855284508</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti" target="g__glutamate dehydrogenase_ti+1">
+      <data key="d0">0.9867637010518592</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti" target="g__histidine kinase_ti+1">
+      <data key="d0">0.990658952420153</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti" target="g__l-serine ammonia-lyase_ti+1">
+      <data key="d0">0.990325600327028</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti" target="g__methionyl aminopeptidase_ti+1">
+      <data key="d0">0.990569684711597</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti" target="g__peptidylprolyl isomerase_ti+1">
+      <data key="d0">0.9834313327998946</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti" target="g__peroxiredoxin_ti+1">
+      <data key="d0">0.9890844142840087</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti" target="g__phosphatidate cytidylyltransferase_ti+1">
+      <data key="d0">0.9829873242934437</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti" target="g__phosphoglycerate kinase_ti+1">
+      <data key="d0">0.989035076867304</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti" target="g__phosphopyruvate hydratase_ti+1">
+      <data key="d0">0.987926115868379</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti" target="g__pyruvate carboxylase_ti+1">
+      <data key="d0">0.9863264717060146</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti" target="g__ribulose-phosphate 3-epimerase_ti+1">
+      <data key="d0">0.9874223913945477</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti" target="g__rna helicase_ti+1">
+      <data key="d0">0.9762250936982566</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti" target="g__shikimate kinase_ti+1">
+      <data key="d0">0.9867617880080269</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti" target="g__superoxide dismutase_ti+1">
+      <data key="d0">0.984944687250845</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti" target="g__thymidylate synthase_ti+1">
+      <data key="d0">0.9872336571097008</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti" target="g__transaldolase_ti+1">
+      <data key="d0">0.985800324740694</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti" target="g__triose-phosphate isomerase_ti+1">
+      <data key="d0">0.9857449139736751</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti" target="g__uridine kinase_ti+1">
+      <data key="d0">0.990032109553837</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="m__hmdb00014_ti" target="m__hmdb00014_ti+1">
+      <data key="d0">0.8954363285778828</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="m__hmdb00020_ti" target="m__hmdb00020_ti+1">
+      <data key="d0">0.9207916359603281</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="m__hmdb00030_ti" target="m__hmdb00030_ti+1">
+      <data key="d0">0.8948021572115671</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="m__hmdb00043_ti" target="m__hmdb00043_ti+1">
+      <data key="d0">0.9168908797804426</data>
+      <data key="d1">0.9803921568627451</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="m__hmdb00056_ti+1">
+      <data key="d0">0.8729253970044313</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="m__hmdb00089_ti" target="m__hmdb00089_ti+1">
+      <data key="d0">0.9056991797134473</data>
+      <data key="d1">0.9215686274509803</data>
+    </edge>
+    <edge id="0" source="m__hmdb00097_ti" target="m__hmdb00097_ti+1">
+      <data key="d0">0.904931387817217</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.9076403754157655</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="m__hmdb00209_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.8901691459547766</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="m__hmdb00239_ti" target="m__hmdb00239_ti+1">
+      <data key="d0">0.9095490655452102</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="m__hmdb00251_ti+1">
+      <data key="d0">0.8914293909956424</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="m__hmdb00289_ti" target="m__hmdb00289_ti+1">
+      <data key="d0">0.9221444803880096</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="m__hmdb00296_ti" target="m__hmdb00296_ti+1">
+      <data key="d0">0.9451216230432554</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="m__hmdb00619_ti+1">
+      <data key="d0">0.8865223770249666</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="m__hmdb00630_ti+1">
+      <data key="d0">0.9292327389384679</data>
+      <data key="d1">0.9607843137254902</data>
+    </edge>
+    <edge id="0" source="m__hmdb00764_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.8763680796941109</data>
+      <data key="d1">0.9019607843137255</data>
+    </edge>
+    <edge id="0" source="m__hmdb01149_ti" target="m__hmdb01149_ti+1">
+      <data key="d0">0.8824677935936958</data>
+      <data key="d1">0.9215686274509803</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="m__hmdb01257_ti+1">
+      <data key="d0">0.875472217406125</data>
+      <data key="d1">0.9411764705882353</data>
+    </edge>
+    <edge id="0" source="m__hmdb02322_ti" target="m__hmdb02322_ti+1">
+      <data key="d0">0.9365740619527648</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.038902197845538826</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.002637860271264151</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.08314373947435341</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">-0.013176433130375077</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.016398834791800432</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.021469708486252036</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.027578876733179034</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.026609324138517503</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.09077580930468565</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.034961069599781784</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.014667833608216517</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">-0.04257879457707685</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.014889090224305446</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.04683135451291247</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.058503714753574465</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.0318633810947507</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.021810353831147135</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.1242677821665733</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.11481360962093871</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.04428677566179549</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">-0.026802487909790368</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">-0.03270422439153572</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.05020947973314079</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">-0.0796245213869488</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.13250370735903874</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.11056118943795547</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">-0.05613235198674917</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.04436211212739231</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.07411305762297518</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.030479236883376462</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.0341714305560278</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.004394936449385323</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">-0.04019843291631545</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.006339111388658087</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__3-hydroxybutyryl-coa dehydrogenase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.005338775530440177</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.15073172768941281</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.04709528130591658</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.08379349135986157</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.06258522845037323</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.035885489721308735</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.03466176540803049</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.10323838163312861</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.048843683962601234</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.023894618984687286</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.05960506416275149</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.02106912354305015</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.028197218498077006</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">0.054079739160015204</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.05746197752194651</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.014119410119302707</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.009064400382173887</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.0441675371580475</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.059202018101768034</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.06985455480108298</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">-0.013825663587725807</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.14455537912409075</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.058883573063574536</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.10102906911206555</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.007495193633514973</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.06993573331603439</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.02123749644890798</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.09390089224316535</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.05315528888887403</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.12117454928225989</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.11822675797226755</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.048189643339078124</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.04974795943976591</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.12410932520149444</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.02757238131789881</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__5-formyltetrahydrofolate cyclo-ligase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.0539218371677274</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.0897084965760438</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.05898218524921722</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.05999042959452135</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">-0.047494359920002595</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.0014232659094756803</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.03797402762758324</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">-0.037263715996073934</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.08196521788720162</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.09228499314974951</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.03296273795219473</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.027931525872515562</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.03735211395449605</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.05000744675634369</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">-0.042230747874794916</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.09517105670497907</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.05487119183821929</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">-0.02807744017226569</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.025222124378503033</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.009525038312367421</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.05683345695602906</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.055419929261079914</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.03582237562121905</data>
+      <data key="d1">0.3137254901960784</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">-0.03688777931388378</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.11484935514912983</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.07304100759374238</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">-0.08057919985535301</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.10295825386125976</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.03462806690117395</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">-0.02557432297651442</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.02471607140732165</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.02378885957288166</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.15277931143827259</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.04552296343354995</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.08611624600795562</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">0.007198312121776536</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">-0.03672240014003416</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.06475561575775766</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.12677320044165</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.029525485323968863</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.0017176919837540766</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.004891848284037112</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.08775344338568544</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.06320780473706829</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.012225123231020865</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.06818895074718552</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.13304256835527115</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.07670259162533713</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.03358023745034405</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.0028825393789709665</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.010888948681040296</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.013831951168374892</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.08802219012201067</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.08007229336733616</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">0.056588381780442835</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.06359539412482963</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.023213095128763656</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__aspartate ammonia-lyase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.04039689064820603</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.0035881141214054333</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.007698183868168856</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.05810692477661867</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.09813872161730704</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.031004430294162184</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.013398723663739403</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.047386192411476354</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.09118868292929753</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.004769879983352475</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.09117891307644538</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.0918075523855207</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.03730684226806355</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.005096385921353284</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">0.036549397958562</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.13271844615119752</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.03841517579707079</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__beta-lactamase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.07712318277835582</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.029376890715239117</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.06684579549952098</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.030721599415131542</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">-0.10160154137527459</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">-0.007276885802344278</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.04835842147087411</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">-0.0019232377970463824</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.03989916475958659</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.1458598281285511</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.06858309972805474</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.09750311021780925</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.031033607980031193</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.07765785494447255</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">-0.03503117194294787</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.06138625610352507</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.001613946228683256</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">-0.03287152185294816</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.0026197336650473036</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dephospho-coa kinase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.007985610954476209</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.037714792808934076</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.07865207976650447</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.003520787142444959</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.0851507104368934</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.09061953883933618</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.025287812457904787</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.06658542804342854</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.028702802729286665</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.06931047287804916</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.08776516597722264</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.05913644140687886</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.028065260572539313</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.023124483303534865</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.14525746941926454</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.14669994736082978</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.15706122812887308</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__dihydrolipoyl dehydrogenase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.052342907929672874</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.04037425719306792</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.1534819992533514</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.027559693956409982</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.04081467554137305</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.10111185477926128</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.044528837214767185</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.09542310419178592</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.01966864272492817</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.09742847003022705</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.07658920082582546</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.04762892288717785</data>
+      <data key="d1">0.3137254901960784</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.16269186552484619</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.08593165109882275</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.11146963046654633</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.014866864132918003</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.02305693099879102</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.04147380891119609</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.010828810086970566</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__dna helicase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.0352212473456611</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.0627097157452764</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.04238980698082862</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.008579755066743397</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.07337819908647329</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">-0.015508771865991432</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.01673198968080994</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.062126548735935934</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.025971212484842184</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.1006751438904994</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">-0.03791482434888181</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.017130839485506345</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.0070051414476303185</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.056806439355272305</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.06146686211144466</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.018782588777761743</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.10203027517857913</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">-0.06794608542992871</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.04991503590376611</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__dna-directed rna polymerase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.004952964933724265</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.012224859019866903</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.0069747769718283125</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.015776325065228563</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.02801128605221632</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.0648532632468916</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.008451275762359557</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.033255058064340336</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.02200378158197259</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.03292490025350404</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.06664645470484391</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.008603322779822998</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.029945984381748975</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.04222934092501155</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.05596835054662702</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.0172536364669322</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.0019209259460147255</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.04239160082333747</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.01873477526801627</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__endopeptidase clp_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.11899959618596162</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.09332146671077003</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.09065777551030064</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.012041529537551245</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">-0.032147743342541765</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.04129219174766104</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.07188981761729761</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">-0.009768581526279258</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.023079099335312506</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.06742563042194168</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">-0.0034127009803150226</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.07876743657971157</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.06378534888458254</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.00845815348690637</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">-0.03518322756578567</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.05611333507338261</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.05451046784165485</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">-0.054155356251557145</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.11158003827416674</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__fructose-bisphosphate aldolase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.014157490869983884</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.08898375157959931</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.04352152395868792</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.007407382341764191</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.0563787576412032</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.051143686395510014</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.05058072993041448</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.07134591166031266</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.11852065636607066</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.11405352631652271</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.11639882918033254</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.015330435410624288</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.07097691647593707</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.03345486162701866</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.05417438935373251</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.017027323090735992</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.10515546406490953</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.06305056122303682</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.019826038846205762</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__glucose-1-phosphate adenylyltransferase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.058356900263409874</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.039158119463378604</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.009691230731409588</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.034443301217603806</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.02344770251544142</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">-0.028562873574123942</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.026511089463316328</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.0879739866204145</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.011676678939566853</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.015657594814600235</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.042504685720289676</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.04119304659716689</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.04594434231560867</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.0015831808747446732</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">-0.008614970619509776</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.07482766492266132</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">-0.0319008961786113</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.009159832407322942</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glutamate decarboxylase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.013481068722452376</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.10471252219688441</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.050966779367679536</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.018930346345388663</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">-0.033390444556869944</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.03901780569884449</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.02238073017795933</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.05027199129508242</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.0325817360632798</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.052887844692472485</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.027669251986489875</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.05215627770743462</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.011284402018496701</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">-0.025812602201061526</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.07385171847531936</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">-0.008037515920123662</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.07914075774760297</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__glutamate dehydrogenase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.019358804816718082</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.05894798048543558</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.009660750062996245</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.03548937004728937</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.07370659199313313</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.000543176125854312</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.0410651183416799</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.024755238568484047</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-2.93760682379973e-05</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.14006191036591487</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.11381114966520273</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.04329554989416963</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.07770087177635165</data>
+      <data key="d1">0.3137254901960784</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.044337621833939765</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.11741047080397908</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.021308629367029777</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">0.05150410090537355</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.10336336341803255</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.02711010649016679</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__histidine kinase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.09966126664713766</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.003389894777338831</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.030171873755748334</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.013323592442834804</data>
+      <data key="d1">0.3137254901960784</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.048513523556906114</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.03987417634062196</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.007515000057095852</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.04388371482288284</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.03508303620033931</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.1304663448655622</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">-0.046914045558439935</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.040565146086762385</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.024901446885542577</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.07506363808524485</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.04154092386990808</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">0.011388352761829094</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.1393025791534907</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.0912527577966548</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__l-serine ammonia-lyase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.016851118672496362</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.08064686286087758</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.01187460265415345</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.028890911852836494</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.07297927011959766</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.042408907166347896</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.0705408457617283</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.02584055415264749</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.05251975939988442</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.04619945340017244</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.06378327092775214</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.058591573850069634</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.012624679777395127</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.0549432710818306</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.04072356064639207</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.012302970387823877</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.036715101176128064</data>
+      <data key="d1">0.3137254901960784</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.017420486456706248</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.06402449992167321</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__methionyl aminopeptidase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.08707795454505392</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.03464085489290113</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.03301589555446938</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.051721273577920064</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">-0.03265859614233798</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.057865162885669</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.008353536801294501</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.02007321605040586</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.032236074250181955</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.1464963426876804</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.08029168723641414</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.022385793419896657</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.08632988113259195</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.023763423137812167</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.018163826567462356</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.06253135414311628</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">-0.03839505162746933</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.026524085870078987</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__peptidylprolyl isomerase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.10131861208999168</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.035849565072785854</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.011636572937940452</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.014183970175289934</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.07532724043177216</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">-0.04524882581484286</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.07892820364240734</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.013664310331407045</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.048907957813944726</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">-0.04733434624880431</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.02916869978771318</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.05462254840804798</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.034835614681007133</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.023451783478470378</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.050771002642044885</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.0592516479413108</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__peroxiredoxin_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.06715888781715955</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.027371121235577</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.01147057751275527</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.06676069025334735</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.010870993324992919</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.04077277782314521</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.010172877804192421</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.015374032930539993</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.007095701271736835</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.011690861902200145</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.05960857944541315</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.04784379093190324</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.016113453097420533</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.03601272570785349</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">-0.025920176020150516</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.019399939822348868</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.011069916559703002</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.050853182313528075</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.03420131909468087</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__phosphatidate cytidylyltransferase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.06512776475066323</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.003231759147519896</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.006961318920121244</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.06006412115954072</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">-0.04380633300597767</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.006481386131472017</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.012846943218660473</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">-0.061391752199958405</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.09894663200538885</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.01420484470154592</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">-0.03411457632739168</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.04186767838826085</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.01296060302110397</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.04992644968724319</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.021730415326706554</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.07405508008716295</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.0472105260513102</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">-0.04556243693944607</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.017496401950121723</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__phosphoglycerate kinase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.059989988228802235</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.05235942997247214</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.06569150670969982</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.03827090859429338</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.18078829816064215</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.04824420682803291</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.13246168174398112</data>
+      <data key="d1">0.35294117647058826</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.001496194953509577</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.02998357716457476</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.03768061029733954</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.09072999496512531</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.08972572161436498</data>
+      <data key="d1">0.35294117647058826</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.025075642041173622</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.02467014745024068</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">0.06915821464614569</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.12370717303234043</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.07425834844334658</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__phosphopyruvate hydratase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.016534163217100006</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.14598301704271197</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.048563001018542884</data>
+      <data key="d1">0.3333333333333333</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.055914104187120554</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.11624719505226874</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.07379391033863815</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.06570392917696675</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">-0.028579632850802464</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.0928595496330135</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.027658794503565884</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.010905772859679917</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.06285563031056102</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.07374490786516316</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.06412003887453993</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">-0.0025819377016026803</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.0016259932829541426</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.07736046838909977</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.02417336260004782</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.07366461505942563</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__pyruvate carboxylase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.05004117626270327</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.02199728052245084</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.03323031349379713</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.006638570475660926</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">-0.08349870997655363</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.09188612275141038</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.041520767752413444</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">-0.03338635526090852</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.0449352813192899</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.05256330532087436</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.030248187387071458</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.018087852269088198</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.046629910614795794</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.02136338400975112</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.03278713484441313</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.09060240701042772</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.10336769549298888</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">-0.009667869917502434</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.0837166116770428</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__ribulose-phosphate 3-epimerase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.11730392012946649</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.002671375936021775</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.07473108483415343</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.04344386586290053</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.03338323945984068</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">-0.040934357981295716</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.037383830064677014</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.09515826592391065</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.10213458894609044</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.024928293977364104</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.11392783621440579</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.057154959066622026</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.017399653584117592</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.0038198354570755226</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.0698785220224648</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">-0.008945990208371833</data>
+      <data key="d1">0.3333333333333333</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.011046816559996796</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__rna helicase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.01451775369175357</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.03669945588431515</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.0021383027903780533</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.15155559352134929</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.03325284304228844</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.08836418308078979</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.022581887517702234</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.07383070009848626</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.04829920659738708</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.07878565092126814</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.035142935912315924</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.04383123125316143</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.09752883879733783</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.04195283741808853</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.08507745658830128</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.05187234282506948</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.019066679064991904</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.05532610976357255</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.052448098665012544</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.04829323774235059</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.09511181471917231</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.07490202123745521</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.022860323312457333</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">-0.048939137199892215</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">0.051947139413615846</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.08195033844471333</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.1835082540843797</data>
+      <data key="d1">0.3137254901960784</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.0336395020330849</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.020123663028329766</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.014184434662594907</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.0748396224910601</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.07291304280500105</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.010390265369308215</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.08565534707599821</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">0.03145242469690867</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.05113195958352572</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.18722132890284457</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__superoxide dismutase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.06884745719514063</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.009230122716289587</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.0029663474346962354</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.11688157217743324</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">-0.03832191270030013</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.07166118110657638</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.09576248096143636</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.057793725286562375</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.060991842107867296</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.08087894040381664</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">0.008590382132601207</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.002178960353704573</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.038364174402194876</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.03229507611094888</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.03060486145019613</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">0.07919447646254152</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.06253440348993702</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.041284406261698665</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__thymidylate synthase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.09302501729969821</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.012557966020859087</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.03870991229604682</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.033834695607846924</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.022692848085089656</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.0065338014277888405</data>
+      <data key="d1">0.29411764705882354</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.007717724800469808</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.1143502987024475</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.1049391317180982</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.001018710308784096</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">0.011967837631087472</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.06545726934498262</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">-0.043392306591284534</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">0.09473820407412031</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.057857938982958344</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.04448791734342924</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.04068173617104586</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.05156175062102455</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.00012350409670562149</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__transaldolase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.05114029513546758</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.00431254735263263</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">0.009963700023320107</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">-0.05324705322300394</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">-0.005186401338987538</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">-0.04671615388812854</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.004408137563907835</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.02200643766568853</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.030795119986639224</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.04846732780957314</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">-0.020954374556566336</data>
+      <data key="d1">0.3137254901960784</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.01524808443872148</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.0500378945589132</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.058053078958388814</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">0.03449638493689404</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.010605176192199268</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.008609678873907733</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.0022657169173345144</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.0709647304778042</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__triose-phosphate isomerase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">0.020150561442526794</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">-0.02132717744298606</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00020_ti+1">
+      <data key="d0">-0.11113636654775537</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.0011558447419790943</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.016319768656329267</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.049987080298314404</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00089_ti+1">
+      <data key="d0">-0.08459507076953923</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00097_ti+1">
+      <data key="d0">0.007329952364283333</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.014962341120757535</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">-0.03579890719602996</data>
+      <data key="d1">0.1568627450980392</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00239_ti+1">
+      <data key="d0">-0.024258899974134204</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00251_ti+1">
+      <data key="d0">-0.007214118387831965</data>
+      <data key="d1">0.2549019607843137</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.020495392263026813</data>
+      <data key="d1">0.17647058823529413</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00296_ti+1">
+      <data key="d0">-0.11069911335041008</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00619_ti+1">
+      <data key="d0">-0.034969403069067755</data>
+      <data key="d1">0.19607843137254902</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">-0.05067030131223647</data>
+      <data key="d1">0.11764705882352941</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">-0.03857323859090497</data>
+      <data key="d1">0.23529411764705882</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.024033010515420145</data>
+      <data key="d1">0.13725490196078433</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">-0.0004390107410867889</data>
+      <data key="d1">0.21568627450980393</data>
+    </edge>
+    <edge id="0" source="g__uridine kinase_ti+1" target="m__hmdb02322_ti+1">
+      <data key="d0">-0.03318318777631443</data>
+      <data key="d1">0.27450980392156865</data>
+    </edge>
+  </graph>
+</graphml>
